@@ -1,0 +1,62 @@
+[
+    {
+        "sg": "mbi",
+        "fr": "je",
+        "en": "I"
+    },
+    {
+        "sg": "mɔ",
+        "fr": "tu",
+        "en": "you [sing.]"
+    },
+    {
+        "sg": "lo",
+        "fr": "il, elle",
+        "en": "he, she"
+    },
+    {
+        "sg": "e, í",
+        "fr": "nous",
+        "en": "we"
+    },
+    {
+        "sg": "ála",
+        "fr": "vous",
+        "en": "you [plur.]"
+    },
+    {
+        "sg": "ála",
+        "fr": "ils, elles",
+        "en": "they"
+    },
+    {
+        "sg": "... tí mbi",
+        "fr": "mon / ma / mes ...",
+        "en": "my ..."
+    },
+    {
+        "sg": "... tí mɔ",
+        "fr": "ton / ta / tes ...",
+        "en": "your ..."
+    },
+    {
+        "sg": "... tí lo",
+        "fr": "son / sa / ses ...",
+        "en": "his / her ..."
+    },
+    {
+        "sg": "... tí í",
+        "fr": "notre / nos ...",
+        "en": "our ..."
+    },
+    {
+        "sg": "... tí ála",
+        "fr": "votre / vos ...",
+        "en": "your ..."
+    },
+    {
+        "sg": "... tí ála",
+        "fr": "leur / leurs ...",
+        "en": "their ..."
+    }
+]

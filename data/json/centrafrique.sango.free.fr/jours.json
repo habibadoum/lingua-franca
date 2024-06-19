@@ -1,0 +1,37 @@
+[
+    {
+        "sg": "Bikwa-óko",
+        "fr": "lundi",
+        "en": "Monday"
+    },
+    {
+        "sg": "Bikwa-use",
+        "fr": "mardi",
+        "en": "Tuesday"
+    },
+    {
+        "sg": "Bikwa-otá",
+        "fr": "mercredi",
+        "en": "Wednesday"
+    },
+    {
+        "sg": "Bikwa-osio",
+        "fr": "jeudi",
+        "en": "Thursday"
+    },
+    {
+        "sg": "Bikwa-okú",
+        "fr": "vendredi",
+        "en": "Friday"
+    },
+    {
+        "sg": "Lápóso",
+        "fr": "samedi",
+        "en": "Saturday"
+    },
+    {
+        "sg": "Láyenga",
+        "fr": "dimanche",
+        "en": "Sunday"
+    }
+]

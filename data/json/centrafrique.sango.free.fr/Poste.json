@@ -1,0 +1,19 @@
+[
+    {"sg": "kɔa", "fr": "le message", "en": null},
+    {"sg": "síngatokɔa", "fr": "le courrier", "en": "mail"},
+    {"sg": "mokandá", "fr": "la lettre", "en": "letter"},
+    {"sg": "wakangbingo-mokandá", "fr": "le facteur, le postier", "en": "mailman"},
+    {"sg": "témbere", "fr": "le timbre", "en": "postage stamp"},
+    {"sg": "gbá", "fr": "le colis, le paquet", "en": "parcel"},
+    {"sg": "bozombeti", "fr": "l'enveloppe", "en": "envelope"},
+    {"sg": "kugbembeti", "fr": "le papier", "en": "paper"},
+    {"sg": "kembeti", "fr": "le stylo, le crayon", "en": "pen, pencil"},
+    {"sg": "lindo", "fr": "l'adresse", "en": "address"},
+    {"sg": "síngamé", "fr": "le téléphone", "en": "phone"},
+    {"sg": "síngamé tí mabóko", "fr": "... mobile", "en": "mobile phone"},
+    {"sg": "nomoro", "fr": "le numéro", "en": "number"},
+    {"sg": "síngasúkó", "fr": "le fax", "en": null},
+    {"sg": "tatárá límo", "fr": "l'écran", "en": "screen"},
+    {"sg": "kembi", "fr": "le clavier", "en": "keyboard"},
+    {"sg": "deku", "fr": "la souris", "en": "mouse"}
+]

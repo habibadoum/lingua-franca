@@ -1,0 +1,332 @@
+[
+    {
+        "sg": "sése",
+        "fr": "la terre, le sol",
+        "en": "earth, ground, soil"
+    },
+    {
+        "sg": "kpondo",
+        "fr": "l'argile",
+        "en": "clay"
+    },
+    {
+        "sg": "pɔtɔpɔtɔ",
+        "fr": "la boue",
+        "en": "mud"
+    },
+    {
+        "sg": "mobutu",
+        "fr": "la poussière",
+        "en": "dust"
+    },
+    {
+        "sg": "péré",
+        "fr": "l'herbe",
+        "en": "grass"
+    },
+    {
+        "sg": "pérékóbe",
+        "fr": "le foin",
+        "en": "hay"
+    },
+    {
+        "sg": "geré",
+        "fr": "la chaume",
+        "en": "stubble, thatch"
+    },
+    {
+        "sg": "bebe",
+        "fr": "la paille",
+        "en": "straw"
+    },
+    {
+        "sg": "bange",
+        "fr": "la plante",
+        "en": "plant"
+    },
+    {
+        "sg": "gundá",
+        "fr": "la racine",
+        "en": "root"
+    },
+    {
+        "sg": "kugbé",
+        "fr": "la feuille",
+        "en": "leaf"
+    },
+    {
+        "sg": "gbákugbé",
+        "fr": "le feuillage",
+        "en": "foliage"
+    },
+    {
+        "sg": "kongo",
+        "fr": "la fleur",
+        "en": "flower"
+    },
+    {
+        "sg": "sánhíngo",
+        "fr": "le roseau",
+        "en": "reed"
+    },
+    {
+        "sg": "róze",
+        "fr": "la rose",
+        "en": null
+    },
+    {
+        "sg": "keke tí róze",
+        "fr": "le rosier",
+        "en": null
+    },
+    {
+        "sg": "kíi, sisi",
+        "fr": "thorn",
+        "en": "l'épine"
+    },
+    {
+        "sg": "yaka",
+        "fr": "la plantation",
+        "en": null
+    },
+    {
+        "sg": "yaka tí fɔndɔ",
+        "fr": "la bananeraie",
+        "en": null
+    },
+    {
+        "sg": "yaka tí ndímo",
+        "fr": "l'orangeraie",
+        "en": null
+    },
+    {
+        "sg": "kéké",
+        "fr": "l'arbre",
+        "en": "tree"
+    },
+    {
+        "sg": "gbakó",
+        "fr": "la forêt",
+        "en": "forest"
+    },
+    {
+        "sg": "bai",
+        "fr": "le parc",
+        "en": "park"
+    },
+    {
+        "sg": "dagbi",
+        "fr": "le pompier",
+        "en": "firefighter, fireman"
+    },
+    {
+        "sg": "wá",
+        "fr": "le feu",
+        "en": "fire"
+    },
+    {
+        "sg": "togbingo-wá",
+        "fr": "l'incendie",
+        "en": "conflagration"
+    },
+    {
+        "sg": "mburuwá",
+        "fr": "la cendre",
+        "en": "ash"
+    },
+    {
+        "sg": "suango-mbíwá",
+        "fr": "la lave",
+        "en": "lava"
+    },
+    {
+        "sg": "gúrú",
+        "fr": "la fumée",
+        "en": "smoke"
+    },
+    {
+        "sg": "dúwá",
+        "fr": "le cratère, le volcan",
+        "en": "crater, volcano"
+    },
+    {
+        "sg": "hɔtɔ",
+        "fr": "le mont, la colline",
+        "en": "mount, hill"
+    },
+    {
+        "sg": "kota-hɔtɔ",
+        "fr": "la montagne",
+        "en": "mountain"
+    },
+    {
+        "sg": "wahɔtɔ",
+        "fr": "le montagnard",
+        "en": "mountain dweller"
+    },
+    {
+        "sg": "popo-hɔtɔ",
+        "fr": "la vallée",
+        "en": "valley"
+    },
+    {
+        "sg": "kété popo-hɔtɔ",
+        "fr": "le vallon",
+        "en": "[little]"
+    },
+    {
+        "sg": "lele",
+        "fr": "la mare",
+        "en": "puddle"
+    },
+    {
+        "sg": "fu",
+        "fr": "le marais, marécage",
+        "en": "marsh, swamp"
+    },
+    {
+        "sg": "ngúlende",
+        "fr": "le lac, l'étang",
+        "en": "lake, pond"
+    },
+    {
+        "sg": "barázi",
+        "fr": "le barrage",
+        "en": "dam"
+    },
+    {
+        "sg": "gbutu",
+        "fr": "la chute d'eau, la cascade",
+        "en": "waterfall"
+    },
+    {
+        "sg": "ngonda",
+        "fr": "la plaine, la brousse",
+        "en": "plain, bush"
+    },
+    {
+        "sg": "lépére",
+        "fr": "la prairie, le pâturage",
+        "en": "meadow, pasture"
+    },
+    {
+        "sg": "nyilépére",
+        "fr": "le pré",
+        "en": "[little]"
+    },
+    {
+        "sg": "yáká",
+        "fr": "le champ",
+        "en": "field"
+    },
+    {
+        "sg": "dúngu",
+        "fr": "le puits",
+        "en": "water well"
+    },
+    {
+        "sg": "gbagbara",
+        "fr": "le pont",
+        "en": "bridge"
+    },
+    {
+        "sg": "te, bale",
+        "fr": "la rivière, le fleuve",
+        "en": "river"
+    },
+    {
+        "sg": "ngúhíngo",
+        "fr": "la mer",
+        "en": "sea"
+    },
+    {
+        "sg": "kota ngúhíngo",
+        "fr": "l'océan",
+        "en": "ocean"
+    },
+    {
+        "sg": "zúá",
+        "fr": "l'île",
+        "en": "island"
+    },
+    {
+        "sg": "ngú-yándo",
+        "fr": "l'oasis",
+        "en": null
+    },
+    {
+        "sg": "yándo",
+        "fr": "le désert",
+        "en": "desert"
+    },
+    {
+        "sg": "ndo-mbutu",
+        "fr": "la plage",
+        "en": "beach"
+    },
+    {
+        "sg": "mbutu",
+        "fr": "le sable",
+        "en": "sand"
+    },
+    {
+        "sg": "tɛmɛ",
+        "fr": "la pierre",
+        "en": "stone"
+    },
+    {
+        "sg": "kété tɛmɛ",
+        "fr": "le caillou",
+        "en": "little stone"
+    },
+    {
+        "sg": "kotatɛmɛ",
+        "fr": "la roche, le rocher",
+        "en": "rock"
+    },
+    {
+        "sg": "diamaa",
+        "fr": "le diamant",
+        "en": "diamond"
+    },
+    {
+        "sg": "píndírí",
+        "fr": "le charbon",
+        "en": "coal"
+    },
+    {
+        "sg": "ngú-lámba",
+        "fr": "le pétrole",
+        "en": "crude oil, (petroleum)"
+    },
+    {
+        "sg": "mbo",
+        "fr": "le gaz",
+        "en": "gas"
+    },
+    {
+        "sg": "tungu",
+        "fr": "le plomb",
+        "en": "lead"
+    },
+    {
+        "sg": "wɛn",
+        "fr": "le fer, l'acier",
+        "en": "iron, steel"
+    },
+    {
+        "sg": "ngbóndó wɛn",
+        "fr": "l'argent",
+        "en": "silver"
+    },
+    {
+        "sg": "mvele",
+        "fr": "le cuivre",
+        "en": "copper"
+    },
+    {
+        "sg": "lólo",
+        "fr": "l'or",
+        "en": "gold"
+    }
+]

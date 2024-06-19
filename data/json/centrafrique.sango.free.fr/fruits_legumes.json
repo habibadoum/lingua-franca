@@ -1,0 +1,322 @@
+[
+    {
+        "sg": "póme",
+        "fr": "la pomme",
+        "en": "apple"
+    },
+    {
+        "sg": "kepóme",
+        "fr": "le pommier",
+        "en": "[tree]"
+    },
+    {
+        "sg": "pastéke",
+        "fr": "la pastèque",
+        "en": "watermelon"
+    },
+    {
+        "sg": "ndímo",
+        "fr": "l'orange",
+        "en": null
+    },
+    {
+        "sg": "keke tí ndímo",
+        "fr": "l'oranger",
+        "en": null
+    },
+    {
+        "sg": "mandaríni",
+        "fr": "la mandarine",
+        "en": "mandarin, tangerine"
+    },
+    {
+        "sg": "kemandaríni",
+        "fr": "le mandarinier",
+        "en": "[tree]"
+    },
+    {
+        "sg": "pomboromúsu",
+        "fr": "le pamplemousse, pomélo",
+        "en": "grapefruit"
+    },
+    {
+        "sg": "zídoro",
+        "fr": "le citron",
+        "en": "lemon"
+    },
+    {
+        "sg": "keke-zídoro",
+        "fr": "le citronnier",
+        "en": "[tree]"
+    },
+    {
+        "sg": "munga",
+        "fr": "la groseille",
+        "en": "redcurrant"
+    },
+    {
+        "sg": "támoro [Arab.]",
+        "fr": "les dattes",
+        "en": "dates"
+    },
+    {
+        "sg": "keke tí támoro",
+        "fr": "le dattier",
+        "en": "date palm"
+    },
+    {
+        "sg": "wasá",
+        "fr": "le tamarin",
+        "en": "tamarind"
+    },
+    {
+        "sg": "lékeke tí pisitáse",
+        "fr": "la pistache",
+        "en": "pistachio"
+    },
+    {
+        "sg": "keke tí pisitáse",
+        "fr": "le pistachier",
+        "en": null
+    },
+    {
+        "sg": "mboma",
+        "fr": "l'amande",
+        "en": "almond"
+    },
+    {
+        "sg": "kete tí mboma",
+        "fr": "l'amandier",
+        "en": "[tree]"
+    },
+    {
+        "sg": "lékeke",
+        "fr": "la noix",
+        "en": "nut"
+    },
+    {
+        "sg": "kárákó",
+        "fr": "l'arachide, les cacahuètes",
+        "en": "peanuts"
+    },
+    {
+        "sg": "góro",
+        "fr": "les noix de cola",
+        "en": "kola nuts"
+    },
+    {
+        "sg": "kokoo",
+        "fr": "la noix de coco",
+        "en": "coconut"
+    },
+    {
+        "sg": "keke tí kokoo",
+        "fr": "le cocotier",
+        "en": "coconut palm"
+    },
+    {
+        "sg": "ngata",
+        "fr": "l'ananas",
+        "en": "pineapple"
+    },
+    {
+        "sg": "bulée, fɔndɔ",
+        "fr": "la banane, la plantain",
+        "en": "banana"
+    },
+    {
+        "sg": "keke tí fɔndɔ",
+        "fr": "le bananier",
+        "en": "[tree]"
+    },
+    {
+        "sg": "mangoo",
+        "fr": "la mangue",
+        "en": "mango"
+    },
+    {
+        "sg": "keke tí mangoo",
+        "fr": "le manguier",
+        "en": "[tree]"
+    },
+    {
+        "sg": "goyavu",
+        "fr": "la goyave",
+        "en": "guava"
+    },
+    {
+        "sg": "papáyi",
+        "fr": "la papaye",
+        "en": "papaya"
+    },
+    {
+        "sg": "lékeke tí pasioon",
+        "fr": "le fruit de la passion",
+        "en": "(purple) passion fruit"
+    },
+    {
+        "sg": "mángo",
+        "fr": "le mangoustan",
+        "en": "(purple) mangosteen"
+    },
+    {
+        "sg": "tangawísi",
+        "fr": "le gingembre",
+        "en": "ginger"
+    },
+    {
+        "sg": "safú",
+        "fr": "le safou",
+        "en": null
+    },
+    {
+        "sg": "yaka-lékeke",
+        "fr": "le verger",
+        "en": "orchard"
+    },
+    {
+        "sg": "lái",
+        "fr": "l'ail",
+        "en": "garlic"
+    },
+    {
+        "sg": "zinyoon",
+        "fr": "l'oignon",
+        "en": "onion"
+    },
+    {
+        "sg": "petizonyoon",
+        "fr": "l'échalote",
+        "en": "shallot"
+    },
+    {
+        "sg": "puaroo",
+        "fr": "le poireau",
+        "en": "leek"
+    },
+    {
+        "sg": "gugu",
+        "fr": "le champignon",
+        "en": "mushroom"
+    },
+    {
+        "sg": "selerii",
+        "fr": "le céleri",
+        "en": "celery"
+    },
+    {
+        "sg": "ngágo",
+        "fr": "les épinards",
+        "en": "spinach"
+    },
+    {
+        "sg": "salade",
+        "fr": "la salade, la laitue",
+        "en": "salad, lettuce"
+    },
+    {
+        "sg": "súu",
+        "fr": "le chou",
+        "en": "cabbage"
+    },
+    {
+        "sg": "vɛkɛ",
+        "fr": "les gombos",
+        "en": "okra"
+    },
+    {
+        "sg": "kawoya",
+        "fr": "la citrouille",
+        "en": "pumpkin"
+    },
+    {
+        "sg": "kɔsɔ",
+        "fr": "la courge",
+        "en": "squash, marrow"
+    },
+    {
+        "sg": "kété-kɔsɔ",
+        "fr": "la courgette",
+        "en": "zucchini"
+    },
+    {
+        "sg": "lé tí ngango",
+        "fr": "l'aubergine",
+        "en": "eggplant"
+    },
+    {
+        "sg": "puavoroon",
+        "fr": "le poivron",
+        "en": "sweet/bell pepper"
+    },
+    {
+        "sg": "ndóngó",
+        "fr": "le piment",
+        "en": "hot/chili pepper"
+    },
+    {
+        "sg": "gbari",
+        "fr": "les haricots",
+        "en": "beans"
+    },
+    {
+        "sg": "gbókórá",
+        "fr": "les pois",
+        "en": "peas"
+    },
+    {
+        "sg": "háriá",
+        "fr": "les céréales",
+        "en": "cereals, grains"
+    },
+    {
+        "sg": "nzó, gbánza",
+        "fr": "le mais",
+        "en": "maize, corn"
+    },
+    {
+        "sg": "lóso",
+        "fr": "le riz",
+        "en": "rice"
+    },
+    {
+        "sg": "yáká tí lóso",
+        "fr": "la rizière",
+        "en": "paddy field"
+    },
+    {
+        "sg": "baboro",
+        "fr": "la patate douce",
+        "en": "sweet potato"
+    },
+    {
+        "sg": "kútugó",
+        "fr": "la pomme de terre",
+        "en": "potato"
+    },
+    {
+        "sg": "yéyorongo",
+        "fr": "les frites",
+        "en": "\"French fries\""
+    },
+    {
+        "sg": "karóte",
+        "fr": "la carotte",
+        "en": "carrot"
+    },
+    {
+        "sg": "damáti",
+        "fr": "la tomate",
+        "en": "tomato"
+    },
+    {
+        "sg": "zavokaa",
+        "fr": "l'avocat",
+        "en": "avocado"
+    },
+    {
+        "sg": "keke tí zavokaa",
+        "fr": "l'avocatier",
+        "en": "[tree]"
+    }
+]

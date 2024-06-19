@@ -1,0 +1,267 @@
+[
+    {
+        "sg": "tataralé",
+        "fr": "les lunettes",
+        "en": "glasses"
+    },
+    {
+        "sg": "kpoto",
+        "fr": "le chapeau",
+        "en": "hat"
+    },
+    {
+        "sg": "kepee",
+        "fr": "la casquette",
+        "en": "cap"
+    },
+    {
+        "sg": "kitambúla",
+        "fr": "le foulard",
+        "en": "headscarf"
+    },
+    {
+        "sg": "bongo ndogó",
+        "fr": "l'écharpe",
+        "en": "scarf"
+    },
+    {
+        "sg": "musuara",
+        "fr": "le mouchoir",
+        "en": "handkerchief"
+    },
+    {
+        "sg": "gáan",
+        "fr": "le gant",
+        "en": "glove"
+    },
+    {
+        "sg": "zagbo",
+        "fr": "le manteau",
+        "en": "coat"
+    },
+    {
+        "sg": "kazáka",
+        "fr": "la veste",
+        "en": "jacket"
+    },
+    {
+        "sg": "nduru kazáka",
+        "fr": "le veston, le blouson",
+        "en": "jacket"
+    },
+    {
+        "sg": "kanzagó, semízi",
+        "fr": "le chemisier",
+        "en": "blouse"
+    },
+    {
+        "sg": "katebongo",
+        "fr": "la chemise",
+        "en": "shirt"
+    },
+    {
+        "sg": "karaváti",
+        "fr": "la cravate",
+        "en": "tie, necktie"
+    },
+    {
+        "sg": "gba",
+        "fr": "la ceinture",
+        "en": "belt"
+    },
+    {
+        "sg": "kota gba",
+        "fr": "le ceinturon",
+        "en": "belt"
+    },
+    {
+        "sg": "gbagó",
+        "fr": "les bretelles",
+        "en": "braces, suspenders"
+    },
+    {
+        "sg": "pandaloo",
+        "fr": "le pantalon",
+        "en": "pants, trousers"
+    },
+    {
+        "sg": "róbo",
+        "fr": "la robe",
+        "en": "dress"
+    },
+    {
+        "sg": "zípe",
+        "fr": "la jupe",
+        "en": "skirt"
+    },
+    {
+        "sg": "kété sakatómbo",
+        "fr": "la jupette",
+        "en": "mini skirt"
+    },
+    {
+        "sg": "zipoo",
+        "fr": "le jupon",
+        "en": "underskirt, petticoat"
+    },
+    {
+        "sg": "sakpá",
+        "fr": "le panier",
+        "en": "basket"
+    },
+    {
+        "sg": "bozo, sáki",
+        "fr": "le sac",
+        "en": "bag, (purse)"
+    },
+    {
+        "sg": "lenge",
+        "fr": "le bijou",
+        "en": "jewel"
+    },
+    {
+        "sg": "walekerengo-lenge",
+        "fr": "le bijoutier",
+        "en": "jeweler"
+    },
+    {
+        "sg": "dabuze tí álenge",
+        "fr": "la bijouterie",
+        "en": "jewelry"
+    },
+    {
+        "sg": "yé-tí-gó",
+        "fr": "le collier",
+        "en": "necklace"
+    },
+    {
+        "sg": "sete",
+        "fr": "la bague, l'anneau",
+        "en": "ring"
+    },
+    {
+        "sg": "bingi",
+        "fr": "le bracelet",
+        "en": null
+    },
+    {
+        "sg": "gbebongo",
+        "fr": "le sous-vêtement",
+        "en": "underwear"
+    },
+    {
+        "sg": "bata-me",
+        "fr": "le soutien-gorge",
+        "en": "bra, (brassiere)"
+    },
+    {
+        "sg": "kilóti",
+        "fr": "la culotte",
+        "en": "panties"
+    },
+    {
+        "sg": "kángá",
+        "fr": "le slip",
+        "en": "briefs"
+    },
+    {
+        "sg": "kolaa",
+        "fr": "les collants",
+        "en": "stockings"
+    },
+    {
+        "sg": "yongóro soseti",
+        "fr": "les bas",
+        "en": "hose"
+    },
+    {
+        "sg": "soseti",
+        "fr": "la chaussette",
+        "en": "sock"
+    },
+    {
+        "sg": "pápa",
+        "fr": "la sandale",
+        "en": "sandal"
+    },
+    {
+        "sg": "poro",
+        "fr": "le cuir",
+        "en": "leather"
+    },
+    {
+        "sg": "poro",
+        "fr": "la chaussure",
+        "en": "shoe"
+    },
+    {
+        "sg": "waporo",
+        "fr": "le chausseur",
+        "en": "shoemaker, cobbler"
+    },
+    {
+        "sg": "wafungo-poro",
+        "fr": "le cordonnier",
+        "en": "shoe cobbler"
+    },
+    {
+        "sg": "fungo-poro",
+        "fr": "la cordonnerie",
+        "en": "shoe repair shop"
+    },
+    {
+        "sg": "kámba tí poro",
+        "fr": "le lacet",
+        "en": "shoelace"
+    },
+    {
+        "sg": "bóte",
+        "fr": "la botte",
+        "en": "boot"
+    },
+    {
+        "sg": "pandáfu",
+        "fr": "la pantoufle",
+        "en": "house shoe, slipper"
+    },
+    {
+        "sg": "pizamaa",
+        "fr": "le pyjama",
+        "en": "pajamas, pyjamas"
+    },
+    {
+        "sg": "wapengo-bongo",
+        "fr": "le tisserand",
+        "en": "weaver"
+    },
+    {
+        "sg": "tukía",
+        "fr": "le coton",
+        "en": "cotton"
+    },
+    {
+        "sg": "wákisi",
+        "fr": "le wax",
+        "en": null
+    },
+    {
+        "sg": "mara-bazen",
+        "fr": "le batik",
+        "en": null
+    },
+    {
+        "sg": "mara-bazen",
+        "fr": "[\"boubou\" en tissu ciré]",
+        "en": null
+    },
+    {
+        "sg": "kuaterétaba",
+        "fr": "la laine",
+        "en": "wool"
+    },
+    {
+        "sg": "kámba-tetere",
+        "fr": "la soie",
+        "en": "silk"
+    }
+]

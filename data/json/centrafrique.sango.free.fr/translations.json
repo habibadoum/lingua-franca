@@ -1,0 +1,1297 @@
+[
+    {
+        "sg": "Zo wa laâ ?",
+        "fr": "Qui est cette personne ?",
+        "en": "Who is this person?"
+    },
+    {
+        "sg": "Sô, zo wa (laâ) ?",
+        "fr": "Là, qui est-ce ?",
+        "en": "Who is that?"
+    },
+    {
+        "sg": "Sô Jean laâ",
+        "fr": "Voici Jean",
+        "en": "Here is Jean"
+    },
+    {
+        "sg": "Sô Jean laâ",
+        "fr": "C'est Jean",
+        "en": "This is Jean"
+    },
+    {
+        "sg": "Ïrï tî mo nye ?",
+        "fr": "Quel est ton nom ?",
+        "en": "What is your name?"
+    },
+    {
+        "sg": "Ïrï tî mo nye ?",
+        "fr": "Comment t'appelles-tu ?",
+        "en": "What is your name?"
+    },
+    {
+        "sg": "Zo wa laâ ?",
+        "fr": "Qui est cette personne ?",
+        "en": "Who is this person?"
+    },
+    {
+        "sg": "Sô, zo wa (laâ) ?",
+        "fr": "Qui est-ce ?",
+        "en": "Who is that?"
+    },
+    {
+        "sg": "Bongô tî mo",
+        "fr": "Vêtement pour toi",
+        "en": "Clothing for you"
+    },
+    {
+        "sg": "Bongô tî mo",
+        "fr": "ton vêtement",
+        "en": "your clothing"
+    },
+    {
+        "sg": "Da tî âla",
+        "fr": "Maison pour eux",
+        "en": "House for them"
+    },
+    {
+        "sg": "Da tî âla",
+        "fr": "leur maison",
+        "en": "their house"
+    },
+    {
+        "sg": "Âkûngbâ tî ë",
+        "fr": "Bagages pour nous",
+        "en": "Luggage for us"
+    },
+    {
+        "sg": "Âkûngbâ tî ë",
+        "fr": "Nos bagages",
+        "en": "Our luggage"
+    },
+    {
+        "sg": "Âmôlengê tî mbï",
+        "fr": "Enfants pour moi",
+        "en": "Children for me"
+    },
+    {
+        "sg": "Âmôlengê tî mbï",
+        "fr": "Mes enfants",
+        "en": "My children"
+    },
+    {
+        "sg": "Pörö tî mbï abe ; tî mo avûko",
+        "fr": "Mes chaussures sont rouges ; les tiennes sont noires",
+        "en": "My shoes are red; yours are black"
+    },
+    {
+        "sg": "Da tî âla akono ; tî ë akono pëpëe",
+        "fr": "Leur maison est grande ; la nôtre, pas",
+        "en": "Their house is big; ours is not"
+    },
+    {
+        "sg": "Lo sü bûku tî lo nî awe ; tî mbï âde !",
+        "fr": "Il a fini de rédiger son ouvrage ; le mien traîne encore !",
+        "en": "He has finished writing his book; mine is still dragging!"
+    },
+    {"sg": "Bêafrîka", "fr": "Centrafrique", "en": "Central African Republic"},
+    {"sg": "Kamerün", "fr": "Cameroun", "en": "Cameroon"},
+    {"sg": "Kongöo", "fr": "Congo", "en": "Congo"},
+    {"sg": "Gaböon", "fr": "Gabon", "en": "Gabon"},
+    {"sg": "Tyâde", "fr": "Tchad", "en": "Chad"},
+    {"sg": "Farânzi", "fr": "France", "en": "France"},
+    {"sg": "Zâmani", "fr": "Allemagne", "en": "Germany"},
+    {"sg": "Angletëre", "fr": "Angleterre", "en": "England"},
+    {"sg": "Amerîka", "fr": "Amérique", "en": "America"},
+    {"sg": "Garâ", "fr": "marché", "en": "market"},
+    {"sg": "Ködrö / Ködörö", "fr": "village ; arrière-pays ; de chez soi", "en": "village; hinterland; home"},
+    {"sg": "Likôlo / Da-mbëtï", "fr": "école", "en": "school"},
+    {"sg": "Labetäne / Da-nganga", "fr": "hôpital", "en": "hospital"},
+    {"sg": "Yäkä", "fr": "champ", "en": "field"},
+    {"sg": "Ngû", "fr": "marigot, rivière, source…", "en": "stream, river, spring..."},
+    {"sg": "Bangî", "fr": "Ville de Bangui", "en": "City of Bangui"},
+    {"sg": "Âla löndö na garâ", "fr": "ils viennent du marché", "en": "they come from the market"},
+    {"sg": "Mo löndö na ndo wa ?", "fr": "D’où viens-tu ?", "en": "Where do you come from?"},
+    {"sg": "Mbï löndö na ndo tî Mûsa", "fr": "Je viens de chez Mûsa", "en": "I come from Mûsa's place"},
+    {"sg": "Marä", "fr": "Clan, ethnie, tribu", "en": "Clan, ethnicity, tribe"},
+    {"sg": "Marä", "fr": "Nationalité", "en": "Nationality"},
+    {"sg": "zo tî…", "fr": "ressortissant de…", "en": "citizen of…"},
+    {"sg": "zo tî Bêafrîka", "fr": "ressortissant de Centrafrique", "en": "citizen of Central African Republic"},
+    {"sg": "zo tî Farânzi", "fr": "ressortissant de France", "en": "citizen of France"},
+    {"sg": "zo tî Kongöo", "fr": "ressortissant du Congo", "en": "citizen of Congo"},
+    {"sg": "…ködrö tî…", "fr": "…du pays de…", "en": "…from the country of…"},
+    {"sg": "…zo tî ködrö tî Zâmani", "fr": "…du pays d’Allemagne", "en": "…from the country of Germany"},
+    {"sg": "…zo tî ködrö tî Ghanäa", "fr": "…du pays du Ghana", "en": "…from the country of Ghana"},
+    {"sg": "…zo tî ködrö tî Amerîka…", "fr": "…du pays d’Amérique…", "en": "…from the country of America…"},
+    {"sg": "…zo tî Zâmani", "fr": "…du pays d’Allemagne", "en": "…from the country of Germany"},
+    {"sg": "…zo tî Ghanäa", "fr": "…du pays du Ghana", "en": "…from the country of Ghana"},
+    {"sg": "…zo tî Amerîka…", "fr": "…du pays d’Amérique…", "en": "…from the country of America…"},
+    {"sg": "Mo löndö na ködrö wa ?", "fr": "D'où viens-tu ?", "en": "Where do you come from?"},
+    {"sg": "Mo löndö na ködrö wa ?", "fr": "De quel pays viens-tu ?", "en": "Which country do you come from?"},
+    {"sg": "Mbï löndö na ködrö tî Bêafrîka", "fr": "Je viens de Centrafrique", "en": "I come from Central African Republic"},
+    {"sg": "Mbï löndö na ködrö tî Farânzi", "fr": "Je viens de France", "en": "I come from France"},
+    {"sg": "Mbï löndö na ködrö tî Kongöo", "fr": "Je viens du Congo", "en": "I come from Congo"},
+    {"sg": "Mbï löndö na ködrö tî Zâmani", "fr": "Je viens d’Allemagne", "en": "I come from Germany"},
+    {"sg": "Mbï löndö na ködrö tî Ghanäa", "fr": "Je viens du Ghana", "en": "I come from Ghana"},
+    {"sg": "Mbï löndö na ködrö tî Amerîka", "fr": "Je viens d’Amérique", "en": "I come from America"},
+    {"sg": "Mbï löndö na ködrö tî Angletëre", "fr": "Je viens d’Angleterre", "en": "I come from England"},
+    {"sg": "Mbï löndö na ködrö tî Kamerün", "fr": "Je viens du Cameroun", "en": "I come from Cameroon"},
+    {"sg": "Mbï löndö na ködrö tî Gaböon", "fr": "Je viens du Gabon", "en": "I come from Gabon"},
+    {"sg": "Mbï löndö na ködrö tî Tyâde", "fr": "Je viens du Tchad", "en": "I come from Chad"},
+    {"sg": "Mbï löndö na ködrö tî Senegalëe", "fr": "Je viens du Sénégal", "en": "I come from Senegal"},
+    {"sg": "Mbï löndö na ködrö tî Mâli", "fr": "Je viens du Mali", "en": "I come from Mali"},
+    {"sg": "Mbï löndö na ködrö tî Nigëre", "fr": "Je viens du Niger", "en": "I come from Niger"},
+    {"sg": "Mbï löndö na ködrö tî Nigëria", "fr": "Je viens du Nigéria", "en": "I come from Nigeria"},
+    {"sg": "Mbï löndö Yäkä", "fr": "Je viens du champ", "en": "I come from the field"},
+    {"sg": "Mbï löndö na ködrö tî Bangî", "fr": "Je viens de Bangui", "en": "I come from Bangui"},
+    {"sg": "Mbï löndö na ködrö tî Mâli", "fr": "Je viens du Mali", "en": "I come from Mali"},
+    {
+        "sg": "Mo yeke zo tî ködrö wa ?",
+        "fr": "Quel est ton pays ?",
+        "en": "What is your country?"
+    },
+    {
+        "sg": "Mo yeke zo tî ködrö wa ?",
+        "fr": "Tu es de quel pays ?",
+        "en": "Which country are you from?"
+    },
+    {
+        "sg": "Mbï yeke zo tî Bêafrîka",
+        "fr": "Je suis de Centrafrique",
+        "en": "I am from Central Africa"
+    },
+    {
+        "sg": "Mbï yeke zo tî Farânzi",
+        "fr": "Je suis de France",
+        "en": "I am from France"
+    },
+    {
+        "sg": "Mbï yeke zo tî Kongöo",
+        "fr": "Je suis du Congo",
+        "en": "I am from Congo"
+    },
+    {
+        "sg": "Mbï yeke zo tî Zâmani",
+        "fr": "Je suis d’Allemagne",
+        "en": "I am from Germany"
+    },
+    {
+        "sg": "Mbï yeke zo tî Ghanäa",
+        "fr": "Je suis du Ghana",
+        "en": "I am from Ghana"
+    },
+    {
+        "sg": "Mbï yeke zo tî Amerîka",
+        "fr": "Je suis d’Amérique",
+        "en": "I am from America"
+    },
+    {
+        "sg": "Mbï yeke zo tî Angletëre",
+        "fr": "Je suis d’Angleterre",
+        "en": "I am from England"
+    },
+    {
+        "sg": "Mbï yeke zo tî Kamerün",
+        "fr": "Je suis du Cameroun",
+        "en": "I am from Cameroon"
+    },
+    {
+        "sg": "Mbï yeke zo tî Gaböon",
+        "fr": "Je suis du Gabon",
+        "en": "I am from Gabon"
+    },
+    {
+        "sg": "Mbï yeke zo tî Tyâde",
+        "fr": "Je suis du Tchad",
+        "en": "I am from Chad"
+    },
+    {
+        "sg": "Mbï yeke zo tî Senegalëe",
+        "fr": "Je suis du Sénégal",
+        "en": "I am from Senegal"
+    },
+    {
+        "sg": "Mbï yeke zo tî Mâli",
+        "fr": "Je suis du Mali",
+        "en": "I am from Mali"
+    },
+    {
+        "sg": "Mbï yeke zo tî Nigëre",
+        "fr": "Je suis du Niger",
+        "en": "I am from Niger"
+    },
+    {
+        "sg": "Mbï yeke zo tî Nigëria",
+        "fr": "Je suis du Nigéria",
+        "en": "I am from Nigeria"
+    },
+    {
+        "sg": "Ködrö tî mo nye ?",
+        "fr": "Quel est le nom de ton pays ?",
+        "en": "What is the name of your country?"
+    },
+    {
+        "sg": "Ködrö tî mo nye ?",
+        "fr": "Comment s’appelle ton pays ?",
+        "en": "What is your country called?"
+    },
+    {
+        "sg": "Ködrö tî mbï",
+        "fr": "Mon pays est…",
+        "en": "My country is..."
+    },
+    {
+        "sg": "Ködrö tî mbï (ayeke)",
+        "fr": "Mon pays est...",
+        "en": "My country is..."
+    },
+    {
+        "sg": "Ködrö tî mbï (ayeke) Bêafrîka",
+        "fr": "Mon pays est la Centrafrique",
+        "en": "My country is Central Africa"
+    },
+    {
+        "sg": "Ködrö tî mbï (ayeke) Farânzi",
+        "fr": "Mon pays est la France",
+        "en": "My country is France"
+    },
+    {
+        "sg": "Ködrö tî mbï (ayeke) Kongöo",
+        "fr": "Mon pays est le Congo",
+        "en": "My country is Congo"
+    },
+    {
+        "sg": "Marâ tî lo nye ?",
+        "fr": "Quelle est sa nationalité ?",
+        "en": "What is his/her nationality?"
+    },
+    {
+        "sg": "Marâ tî lo nye ?",
+        "fr": "Quelle est sa tribu ?",
+        "en": "What is his/her tribe?"
+    },
+    {
+        "sg": "Marâ tî lo",
+        "fr": "Sa nationalité est…",
+        "en": "His/her nationality is..."
+    },
+    {
+        "sg": "Marâ tî lo (ayeke)",
+        "fr": "Sa nationalité est…",
+        "en": "His/her nationality is..."
+    },
+    {
+        "sg": "Marâ tî lo (ayeke) Kongolëe",
+        "fr": "C'est un Congolais",
+        "en": "He/She is Congolese"
+    },
+    {
+        "sg": "Marâ tî lo (ayeke) Kamerunëe",
+        "fr": "C'est un Camerounais",
+        "en": "He/She is Cameroonian"
+    },
+    {
+        "sg": "Marâ tî lo (ayeke) Senegalëe",
+        "fr": "C'est un Sénégalais",
+        "en": "He/She is Senegalese"
+    },
+    {
+        "sg": "Marâ tî lo (ayeke) Gaböonëe",
+        "fr": "C'est un Gabonais",
+        "en": "He/She is Gabonese"
+    },
+    {
+        "sg": "Lo yeke Kongolëe",
+        "fr": "C'est un Congolais",
+        "en": "He/She is Congolese"
+    },
+    {
+        "sg": "Lo yeke Kamerunëe",
+        "fr": "Il est Camerounais",
+        "en": "He is Cameroonian"
+    },
+    {
+        "sg": "Lo yeke Senegalëe",
+        "fr": "Il est Sénégalais",
+        "en": "He is Senegalese"
+    },
+    {"sg": "Kwa tî mo nye ?", "fr": "Quel est ton métier ?", "en": "What is your job?"},
+    {"sg": "Mbï yeke sâra kwa tî mêtere", "fr": "Je suis maître", "en": "I am a teacher"},
+    {"sg": "Mbï yeke mêtere", "fr": "Je suis maître", "en": "I am a teacher"},
+    {"sg": "Mbï yeke sâra kwa tî profesëre", "fr": "Je suis professeur", "en": "I am a professor"},
+    {"sg": "Mbï yeke profesëre", "fr": "Je suis professeur", "en": "I am a professor"},
+    {"sg": "Mbï yeke sâra kwa tî wafängö-mbëtï", "fr": "Je suis enseignant", "en": "I am a teacher"},
+    {"sg": "Mbï yeke wafängö-mbëtï", "fr": "Je suis enseignant", "en": "I am a teacher"},
+    {"sg": "Mbï yeke wadïköngö-mbëtï", "fr": "Je suis étudiant", "en": "I am a student"},
+    {"sg": "Mbï yeke wamändängö-mbëtï", "fr": "Je suis élève", "en": "I am a pupil"},
+    {"sg": "Mbï yeke wadïköngö-mbëtï", "fr": "Je suis écolier", "en": "I am a schoolchild"},
+    {"sg": "Mbï yeke wamändängö-mbëtï", "fr": "Je suis élève", "en": "I am a pupil"},
+    {"sg": "Mo yeke sâra kwa tî nye ?", "fr": "Quel métier exerces-tu ?", "en": "What job do you do?"},
+    {"sg": "Mo yeke sâra kwa tî nye ?", "fr": "Quel est ton métier ?", "en": "What is your job?"},
+    {"sg": "Mo yeke sâra kwa tî nye ?", "fr": "Tu fais quoi comme métier ?", "en": "What do you do for a living?"},
+    {"sg": "Mo yeke sâra kwa tî nye ?", "fr": "Tu exerces quel métier ?", "en": "What job do you do?"},
+    {"sg": "Mbï yeke sâra kwa tî...", "fr": "Je fais le métier de...", "en": "I work as..."},
+    {"sg": "Kwa tî...", "fr": "métier de...", "en": "job of..."},
+    {"sg": "Zo wa laâ ayo ahön mbâ tî lo, zo wa ?", "fr": "Qui est plus élancé que l'autre ?", "en": "Who is taller than the other?"},
+    {"sg": "Mbupa", "fr": "mot", "en": "word"},
+    {"sg": "Mbâ", "fr": "son prochain, l'autre", "en": "his/her neighbor, the other"},
+    {"sg": "Mbâ tî mbï", "fr": "Mon prochain", "en": "My neighbor"},
+    {"sg": "Mbâ tî mo", "fr": "Ton prochain", "en": "Your neighbor"},
+    {"sg": "Mbâ tî terê", "fr": "l'un l'autre...", "en": "each other..."},
+    {"sg": "Lï", "fr": "entrer", "en": "enter"},
+    {"sg": "Dutï", "fr": "s'asseoir", "en": "sit"},
+    {"sg": "Löndö", "fr": "se lever", "en": "stand up"},
+    {"sg": "Manda", "fr": "apprendre", "en": "learn"},
+    {"sg": "Hâka", "fr": "essayer", "en": "try"},
+    {"sg": "Hâka", "fr": "répéter", "en": "repeat"},
+    {"sg": "Dîko", "fr": "Lire", "en": "read"},
+    {"sg": "Sü", "fr": "écrire", "en": "write"},
+    {"sg": "Sï", "fr": "arriver", "en": "arrive"},
+    {"sg": "Hûnda", "fr": "demander", "en": "ask"},
+    {"sg": "Hündängö tënë", "fr": "question", "en": "question"},
+    {"sg": "Hündängö tënë", "fr": "Poser une question", "en": "ask a question"},
+    {"sg": "hündängö-ndo", "fr": "question", "en": "question"},
+    {"sg": "hündängö-ndo", "fr": "Poser une question", "en": "ask a question"},
+    {"sg": "Yêda na hündängö tënë sô", "fr": "Réponds par l'affirmative à la question suivante", "en": "Answer affirmatively to the following question"},
+    {"sg": "Yêda na hündängö tënë sô", "fr": "Réponds oui à la question suivante", "en": "Answer yes to the following question"},
+    {"sg": "Yêda na hündängö tënë sô", "fr": "accepter de répondre à la question suivante", "en": "agree to answer the following question"},
+    {"sg": "Yêda na hündängö tënë sô", "fr": "accepte de répondre à la question suivante", "en": "agree to answer the following question"},
+    {"sg": "Ke hündängö tênë sô", "fr": "Réponds par la négative à la question suivante", "en": "Answer negatively to the following question"},
+    {"sg": "Ke hündängö tênë sô", "fr": "refuser de répondre à la question suivante", "en": "refuse to answer the following question"},
+    {
+        "sg": "Kîri tënë",
+        "fr": "répondre",
+        "en": "to answer"
+    },
+    {
+        "sg": "Kïrïngö tênë",
+        "fr": "réponse",
+        "en": "answer"
+    },
+    {
+        "sg": "Terê",
+        "fr": "le corps physique",
+        "en": "body"
+    },
+    {
+        "sg": "Terê",
+        "fr": "la peau",
+        "en": "skin"
+    },
+    {
+        "sg": "Wara terê",
+        "fr": "se rencontrer",
+        "en": "to meet"
+    },
+    {
+        "sg": "Nzorôko",
+        "fr": "la couleur",
+        "en": "color"
+    },
+    {
+        "sg": "nzorôke tî terê",
+        "fr": "la couleur de la peau",
+        "en": "skin color"
+    },
+    {
+        "sg": "Be",
+        "fr": "avoir le teint clair",
+        "en": "to have fair skin"
+    },
+    {
+        "sg": "Be",
+        "fr": "brûnir",
+        "en": "to tan"
+    },
+    {
+        "sg": "Be",
+        "fr": "rougir",
+        "en": "to blush"
+    },
+    {
+        "sg": "Be",
+        "fr": "mûrir",
+        "en": "to ripen"
+    },
+    {
+        "sg": "Bengbä",
+        "fr": "rouge",
+        "en": "red"
+    },
+    {
+        "sg": "Vûko",
+        "fr": "être noir(e) de peau",
+        "en": "to be black-skinned"
+    },
+    {
+        "sg": "Vôko",
+        "fr": "devenir noir(e)",
+        "en": "to turn black"
+    },
+    {
+        "sg": "Vukü",
+        "fr": "noir(e)",
+        "en": "black"
+    },
+    {
+        "sg": "Vokö",
+        "fr": "noir(e)",
+        "en": "black"
+    },
+    {
+        "sg": "Vuru",
+        "fr": "être blanc de peau",
+        "en": "to be white-skinned"
+    },
+    {
+        "sg": "Vuru",
+        "fr": "devenir tout blanc",
+        "en": "to turn white"
+    },
+    {
+        "sg": "Vurü",
+        "fr": "blanc/blanche",
+        "en": "white"
+    },
+    {
+        "sg": "Vurü",
+        "fr": "blanche",
+        "en": "white (feminine)"
+    },
+    {
+        "sg": "Yo",
+        "fr": "être grand par la taille",
+        "en": "to be tall"
+    },
+    {
+        "sg": "Täpandë",
+        "fr": "exemple",
+        "en": "example"
+    },
+    {
+        "sg": "môlengê-kôlï sô ayo mîngi !",
+        "fr": "Ce garçon a démésurément grandi !",
+        "en": "This boy has grown excessively!"
+    },
+    {
+        "sg": "Yöngö tî ...",
+        "fr": "la taille de ...",
+        "en": "the size of ..."
+    },
+    {
+        "sg": "Yongôro zo",
+        "fr": "quelqu'un de corpulent",
+        "en": "a corpulent person"
+    },
+    {
+        "sg": "Yongôro kôlï",
+        "fr": "un homme corpulent",
+        "en": "a corpulent man"
+    },
+    {
+        "sg": "Yongôro wâlï",
+        "fr": "une femme corpulente",
+        "en": "a corpulent woman"
+    },
+    {
+        "sg": "Kono",
+        "fr": "grandir",
+        "en": "to grow"
+    },
+    {
+        "sg": "Kono",
+        "fr": "grossir",
+        "en": "to get fat"
+    },
+    {
+        "sg": "Könöngö tî...",
+        "fr": "la taille de ...",
+        "en": "the size of ..."
+    },
+    {
+        "sg": "Ndurü",
+        "fr": "petit de taille",
+        "en": "short"
+    },
+    {
+        "sg": "Gä hîo, mo bâa mbênî ndurü kôlï sô !",
+        "fr": "Viens vite voir ce bout d'homme !",
+        "en": "Come quickly to see this little man!"
+    },
+    {
+        "sg": "Lo yeke taâ gï ndurü-ndurü !",
+        "fr": "Il est si petit de taille !",
+        "en": "He is so small in size!"
+    },
+    {
+        "sg": "Kêtê",
+        "fr": "petit",
+        "en": "small"
+    },
+    {
+        "sg": "kêtê terê",
+        "fr": "corps frêle",
+        "en": "frail body"
+    },
+    {
+        "sg": "Nge",
+        "fr": "mincir ; maigrir",
+        "en": "to slim down; to lose weight"
+    },
+    {
+        "sg": "Ngëngö",
+        "fr": "le fait de mincir",
+        "en": "the act of slimming down"
+    },
+    {
+        "sg": "Ngëngö wâlï",
+        "fr": "une femme maigre",
+        "en": "a thin woman"
+    },
+    {
+        "sg": "Ngëngö kôlï",
+        "fr": "un homme mince",
+        "en": "a thin man"
+    },
+    {
+        "sg": "Zo wa laâ ayo ahön mbâ tî lo, zo wa ?",
+        "fr": "Qui est plus grand que l'autre ?",
+        "en": "Who is taller than the other?"
+    },
+    {"sg": "Kua", "fr": "travail", "en": "work"},
+    {"sg": "Kua", "fr": "métier", "en": "job"},
+    {"sg": "Kua", "fr": "profession", "en": "profession"},
+    {"sg": "kwa", "fr": "travail", "en": "work"},
+    {"sg": "kwa", "fr": "métier", "en": "job"},
+    {"sg": "kwa", "fr": "profession", "en": "profession"},
+    {"sg": "Päsä", "fr": "chance", "en": "luck"},
+    {"sg": "Sïönî mênë", "fr": "mauvais sang", "en": "bad blood"},
+    {"sg": "Sïönî mênë", "fr": "malchance", "en": "bad luck"},
+    {"sg": "Gi kwa", "fr": "chercher du travail", "en": "look for work"},
+    {"sg": "Wara kwa", "fr": "trouver du travail", "en": "find work"},
+    {"sg": "Hön na kwa", "fr": "aller au travail", "en": "go to work"},
+    {"sg": "Hön na kwa", "fr": "partir au travail", "en": "go to work"},
+    {"sg": "Gwe na kwa", "fr": "aller au travail", "en": "go to work"},
+    {"sg": "Gwe na kwa", "fr": "partir au travail", "en": "go to work"},
+    {"sg": "Mbi gwë na kwa", "fr": "je vais au travail", "en": "I am going to work"},
+    {"sg": "Mbi hön na kwa", "fr": "je vais au travail", "en": "I am going to work"},
+    {"sg": "Manda kwa", "fr": "apprendre un métier", "en": "learn a trade"},
+    {"sg": "Hînga kwa", "fr": "bien connaître son métier", "en": "know one's job well"},
+    {"sg": "Sâra kwa", "fr": "travailler", "en": "to work"},
+    {"sg": "Sâra kwa", "fr": "exercer un métier, une profession", "en": "practice a profession"},
+    {"sg": "Sâra kwa", "fr": "exercer une profession", "en": "practice a profession"},
+    {"sg": "Yê kwa", "fr": "aimer son travail", "en": "love one's work"},
+    {"sg": "Yê kwa", "fr": "aimer travailler", "en": "love to work"},
+    {"sg": "Yê kwa", "fr": "demander du travail", "en": "ask for work"},
+    {"sg": "...kwa tî...", "fr": "(exercer) le métier de...", "en": "work as a..."},
+    {"sg": "Ke kwa", "fr": "refuser un travail", "en": "refuse a job"},
+    {"sg": "Zîa kwa", "fr": "abandonner son travail", "en": "quit one's job"},
+    {"sg": "Kpë kwa", "fr": "fuir le travail", "en": "avoid work"},
+    {"sg": "Zï zo na kwa", "fr": "licencier quelqu'un de son travail", "en": "fire someone from their job"},
+    {"sg": "Zï zo na kwa", "fr": "Enlever quelqu'un de son travail", "en": "remove someone from their job"},
+    {"sg": "Zï mo na kwa", "fr": "Te licencier de ton travail", "en": "fire you from your job"},
+    {"sg": "Tumba zo na kwa", "fr": "licencier quelqu'un de son travail", "en": "fire someone from their job"},
+    {"sg": "Tumba mo na kwa", "fr": "Te licencier de ton travail", "en": "fire you from your job"},
+    {"sg": "Zï", "fr": "enlever, ôter", "en": "remove"},
+    {"sg": "Aparandëe, bata-kûngbâ", "fr": "apprenti chauffeur", "en": "apprentice driver"},
+    {"sg": "bata-kûngbâ", "fr": "apprenti chauffeur", "en": "apprentice driver"},
+    {"sg": "Bôi", "fr": "domestique", "en": "domestic servant"},
+    {"sg": "Bôi", "fr": "serviteur", "en": "servant"},
+    {"sg": "Dokotöro", "fr": "docteur", "en": "doctor"},
+    {"sg": "Wanganga", "fr": "docteur", "en": "doctor"},
+    {"sg": "Kôlï-garâ", "fr": "vendeur (au marché)", "en": "market vendor"},
+    {"sg": "Kömändâ", "fr": "administrateur", "en": "administrator"},
+    {"sg": "Kömändâ-kötä", "fr": "préfet", "en": "prefect"},
+    {"sg": "Kömändâ-kêtê", "fr": "sous-préfet", "en": "sub-prefect"},
+    {"sg": "Kömändâ-nginza", "fr": "agent spécial", "en": "special agent"},
+    {"sg": "Kömändâ-yäkä", "fr": "conducteur agricole", "en": "agricultural driver"},
+    {"sg": "Komïi", "fr": "commis", "en": "clerk"},
+    {"sg": "Kordonëe", "fr": "cordonnier", "en": "shoemaker"},
+    {"sg": "Kuzinïe", "fr": "cuisinier", "en": "cook"},
+    {"sg": "Lafremëe", "fr": "infirmier", "en": "nurse"},
+    {"sg": "Lembë", "fr": "ambassadeur", "en": "ambassador"},
+    {"sg": "Makunzi", "fr": "chef de village", "en": "village chief"},
+    {"sg": "monkonzi", "fr": "chef de village", "en": "village chief"},
+    {"sg": "makünzi", "fr": "chef de village", "en": "village chief"},
+    {"sg": "monkünzi", "fr": "chef de village", "en": "village chief"},
+    {"sg": "Makunzi", "fr": "chef de quartier", "en": "neighborhood chief"},
+    {"sg": "monkonzi", "fr": "chef de quartier", "en": "neighborhood chief"},
+    {"sg": "makünzi", "fr": "chef de quartier", "en": "neighborhood chief"},
+    {"sg": "monkünzi", "fr": "chef de quartier", "en": "neighborhood chief"},
+    {"sg": "Manêvere", "fr": "manœuvre", "en": "laborer"},
+    {"sg": "Mêtere", "fr": "Maître", "en": "Master"},
+    {"sg": "Mëtërêse", "fr": "Maîtresse", "en": "Mistress"},
+    {"sg": "Ndombe", "fr": "boutiquier", "en": "shopkeeper"},
+    {"sg": "Pulûsu", "fr": "police", "en": "police"},
+    {"sg": "Pulûsu", "fr": "policier", "en": "policeman"},
+    {"sg": "Profesëre", "fr": "professeur", "en": "professor"},
+    {"sg": "Sarapandëe", "fr": "charpentier", "en": "carpenter"},
+    {"sg": "Sânzêrê", "fr": "sentinelle", "en": "sentry"},
+    {"sg": "sînzîrî", "fr": "sentinelle", "en": "sentry"},
+    {"sg": "Sasëre", "fr": "chasseur", "en": "hunter"},
+    {"sg": "Sekretëre", "fr": "secrétaire", "en": "secretary"},
+    {"sg": "Sofêre", "fr": "chauffeur", "en": "driver"},
+    {"sg": "Somëre", "fr": "chômeur", "en": "unemployed person"},
+    {"sg": "Turûgu", "fr": "soldat, militaire", "en": "soldier"},
+    {"sg": "Wadëngö-büzë", "fr": "commerçant", "en": "merchant"},
+    {"sg": "Wadïköngö-mbëtï", "fr": "écolier", "en": "schoolboy"},
+    {"sg": "Wadïköngö-mbëtï", "fr": "élève", "en": "pupil"},
+    {"sg": "Wadïköngö-mbëtï", "fr": "étudiant", "en": "student"},
+    {"sg": "wamändängö-mbëtï", "fr": "écolier", "en": "schoolboy"},
+    {"sg": "wamändängö-mbëtï", "fr": "élève", "en": "pupil"},
+    {"sg": "wamändängö-mbëtï", "fr": "étudiant", "en": "student"},
+    {"sg": "Wafängö-mbëtï", "fr": "enseignant", "en": "teacher"},
+    {"sg": "Wafängö-yäkä", "fr": "cultivateur", "en": "farmer"},
+    {"sg": "Wafängö-yäkä", "fr": "paysan", "en": "peasant"},
+    {"sg": "Wagïngö-susu", "fr": "pêcheur", "en": "fisherman"},
+    {"sg": "Wâlï-garâ", "fr": "vendeuse (au marché)", "en": "market vendor"},
+    {"sg": "Wasärängö-da", "fr": "maçon", "en": "mason"},
+    {"sg": "masöon", "fr": "maçon", "en": "mason"},
+    {"sg": "Wasêndâ-kuräan", "fr": "électricien", "en": "electrician"},
+    {"sg": "Wa-tî-kwa", "fr": "employeur", "en": "employer"},
+    {"sg": "Zo-tî-kwa", "fr": "employé", "en": "employee"},
+    {"sg": "Nsamba-Nsâmba ayeke zo tî ködrö tî Kongöo", "fr": "Nsamba-Nsâmba est du Congo", "en": "Nsamba-Nsâmba is from Congo"},
+    {"sg": "Nsamba-Nsâmba ayeke zo tî ködrö tî Kongöo", "fr": "Nsamba-Nsâmba est un Congolais", "en": "Nsamba-Nsâmba is Congolese"},
+    {"sg": "Lo gâ na Bêafrîka tî manda mbëtï. Lo ngbâ masika-kôlï. Lo yo, na lo be kête. Lo ga, lo dutï na terê tî Mälä.", "fr": "Il est venu en Centrafrique pour apprendre. Il est encore jeune. Il est vraiment grand bien qu'encore jeune. Il est entré, il s'est assis à côté de Mälä.", "en": "He came to the Central African Republic to learn. He is still young. He is really tall despite being young. He entered and sat next to Mälä."},
+    {"sg": "Mälä ayeke ti lo wa-bêafrîka. Lo ngâ, lo ngbâ masika-kôlï. Lo yo nga ! Me lo vôko.", "fr": "Mälä est un Centrafricain. Lui aussi est encore jeune. Il est vraiment grand ! Il est aussi grand mais est de peau noire.", "en": "Mälä is a Central African. He is also still young. He is really tall! He is also tall but has dark skin."},
+    {"sg": "Lo bärâ Nsamba-Nsâmba na yângâ tî Sängö, me âde lo mä Sângö nzönî pëpëe", "fr": "Il a parlé à Nsamba-Nsâmba en Sängö, mais ce dernier ne comprend pas bien le Sängö.", "en": "He spoke to Nsamba-Nsâmba in Sängö, but the latter doesn't understand Sängö well."},
+    {"sg": "Âla ûse kwê atï na ngîâ, sï âla töndâ tî sârängö tënë na pöpö tî âla na yângâ tî farânzi", "fr": "Ils se sont mis tous les deux à rire, puis ils ont commencé à parler en français.", "en": "They both started laughing, then began speaking in French."},
+    {"sg": "Fafadë töngasô, kötâ söngö atï na pöpö tî âla awe ! Mô bâa âla, mo tene, âla yeke âîtä !", "fr": "Très rapidement, ils se sont liés d'amitié. En les voyant, tu croirais qu'ils se connaissent depuis longtemps !", "en": "Very quickly, they became friends. Seeing them, you would think they have known each other for a long time!"},
+    {"sg": "Bê tî Mälä anzere mîngi tî bâa sô, mbênî gene agä tî manda kötä mbëtï na Bangî !", "fr": "Mälä est très content qu'un étranger soit venu pour apprendre à Bangui !", "en": "Mälä is very happy that a foreigner came to learn in Bangui!"},
+    {"sg": "Mälä ayeke leke bê tî lo ti gwe na lo ânde na ködrö, tî te kôbe.", "fr": "Mälä prévois de l'emmener chez lui plus tard afin qu'il puisse manger ensemble.", "en": "Mälä plans to take him to his home later so they can eat together."},
+    {"sg": "Me Îsa ayeke hûnda terê tî lo : na pöpö tî âla ûse sô, zo wa laâ ayo ahön mbâ tî lo, zo wa ?", "fr": "Mais Isa se demande : d'eux deux, qui est plus grand que l'autre ?", "en": "But Isa wonders: between the two of them, who is taller?"},
+    {"sg": "Mälä ayeke zo wa ?", "fr": "Mälä, qui est-ce ?", "en": "Who is Mälä?"},
+    {"sg": "Mälä ayeke zo wa ?", "fr": "Qui est Mälä ?", "en": "Who is Mälä?"},
+    {"sg": "Könöngö tî lo töngana nye ?", "fr": "Quelle est sa taille ?", "en": "What is his height?"},
+    {"sg": "Ka Nsamba-Nsâmba ?", "fr": "Et Nsamba-Nsâmba ?", "en": "And Nsamba-Nsâmba?"},
+    {"sg": "Âla wara terê na ndo wa ?", "fr": "Où se sont-ils rencontrés ?", "en": "Where did they meet?"},
+    {"sg": "Nye laâ asï na pöpö tî âla, nye ?", "fr": "Qu'est ce qui s'est passé entre eux ?", "en": "What happened between them?"},
+    {"sg": "HÜNDÄNGÖ TËNE", "fr": "Questions", "en": "Questions"},
+    {"sg": "HÜNDÄNGÖ TËNE", "fr": "Poser des questions", "en": "Asking questions"},
+    {"sg": "SÊNDIÄYÂNGÂ", "fr": "Grammaire", "en": "Grammar"},
+    {"sg": "ÂFINÎ MBUPA", "fr": "Mots nouveaux", "en": "New words"},
+    {"sg": "ÂFINÎ MBUPA", "fr": "Des nouveaux mots", "en": "New words"},
+    {"sg": "Yêda", "fr": "accepter, acquiesser", "en": "accept, agree"},
+    {"sg": "Yêda", "fr": "acquiesser", "en": "agree"},
+    {"sg": "Ke", "fr": "refuser", "en": "refuse"},
+    {"sg": "Hûnda", "fr": "demander", "en": "ask"},
+    {"sg": "KÏRÏNGÖ NA PEKÔ TÎ HÜNDÄNGÖ TËNË", "fr": "Répondre à une question", "en": "Answer a question"},
+    {"sg": "KÏRÏNGÖ NA PEKÔ TÎ HÜNDÄNGÖ TËNË", "fr": "Réponse à une question", "en": "Answer to a question"},
+    {"sg": "iiiin !", "fr": "oui !", "en": "yes!"},
+    {"sg": "În-ïn !", "fr": "non !", "en": "no!"},
+    {"sg": "Babâ tî mo agä aweê ?", "fr": "Ton père est-il là ?", "en": "Is your father here?"},
+    {"sg": "Babâ tî mo agä aweê ?", "fr": "Ton père est déjà arrivé ?", "en": "Has your father arrived?"},
+    {"sg": "Babâ tî mo agä aweê ?", "fr": "Ton père est déjà rentré ?", "en": "Has your father returned?"},
+    {"sg": "iiiin ! Lo gä awe !", "fr": "Oui ! Il est déjà là !", "en": "Yes! He is already here!"},
+    {"sg": "În-ïn ! Âde lo gä äpëe !", "fr": "Non ! Il n'est pas encore rentré !", "en": "No! He hasn't returned yet!"},
+    {"sg": "ZO WA LAÂ AYO MÎNGI, ZO WA ?", "fr": "Qui est le plus grand ?", "en": "Who is the tallest?"},
+    {"sg": "SÊNDÂTËNË", "fr": "Vocabulaire", "en": "Vocabulary"},
+    {"sg": "YÊ TÎ MÄNDÄNGÖ NÎ", "fr": "Notions à acquérir", "en": "Concepts to acquire"},
+    {"sg": "Yëdängö na hündängö tëne, wala këngö nî", "fr": "répondre par l'affirmative ou la négative à une question", "en": "answer affirmatively or negatively to a question"},
+    {"sg": "LESÖON MBÂRÂMBÂRÂ", "fr": "Spetième leçon", "en": "Seventh lesson"},
+    {"sg": "LESÖON MBÂRÂMBÂRÂ", "fr": "Leçon sept", "en": "Lesson seven"},
+    {"sg": "TERÊ TÎ ZO", "fr": "Le corps humain", "en": "The human body"},
+    {"sg": "ÂYÊ TÎ MÄNDÄNGÖ NÎ", "fr": "Notions à acquérir", "en": "Concepts to acquire"},
+    {"sg": "ÂYÊ TÎ MÄNDÄNGÖ NÎ", "fr": "Notions à apprendre", "en": "Concepts to learn"},
+    {"sg": "Âmbupa tî dï na ïrï tî yê tî terê tî zo", "fr": "les mots pour citer les différentes parties du corps", "en": "words to name the different parts of the body"},
+    {"sg": "Âpasûndâ", "fr": "adjectifs qualificatifs", "en": "qualifying adjectives"},
+    {"sg": "Âmbasêlî", "fr": "adverbes", "en": "adverbs"},
+    {"sg": "Âmbupa tî sâra na tënë", "fr": "Mots pour s'exprimer", "en": "Words to express oneself"},
+    {"sg": "Li", "fr": "la tête", "en": "head"},
+    {"sg": "Kûâ tî li", "fr": "les cheveux", "en": "hair"},
+    {"sg": "Biyö tî li", "fr": "l'os de la tête", "en": "skull bone"},
+    {"sg": "Biyö tî li", "fr": "le crâne", "en": "skull"},
+    {"sg": "Pekô tî li", "fr": "la nuque", "en": "nape"},
+    {"sg": "Lê", "fr": "la face", "en": "face"},
+    {"sg": "Lê", "fr": "l'oeil", "en": "eye"},
+    {"sg": "Lê", "fr": "les yeux", "en": "eyes"},
+    {"sg": "Dû tî lê", "fr": "l'orbite", "en": "eye socket"},
+    {"sg": "Ndö tî lê", "fr": "le front", "en": "forehead"},
+    {"sg": "Hôn", "fr": "le nez", "en": "nose"},
+    {"sg": "Dû tî hôn", "fr": "la narine", "en": "nostril"},
+    {"sg": "Dû tî hôn", "fr": "les narines", "en": "nostrils"},
+    {"sg": "Mê", "fr": "les oreilles", "en": "ears"},
+    {"sg": "Mê", "fr": "l'oreille", "en": "ear"},
+    {"sg": "Yângâ", "fr": "la bouche", "en": "mouth"},
+    {"sg": "Gbe tî yângâ", "fr": "le menton", "en": "chin"},
+    {"sg": "Kûâ tî yângâ", "fr": "la barbe", "en": "beard"},
+    {"sg": "Ngbângbâ", "fr": "la joue", "en": "cheek"},
+    {"sg": "Biyö-ngbângbâ", "fr": "la mâchoire", "en": "jaw"},
+    {"sg": "Pëmbë", "fr": "les dents", "en": "teeth"},
+    {"sg": "Mëngâ", "fr": "la langue", "en": "tongue"},
+    {"sg": "Gô", "fr": "la voix", "en": "voice"},
+    {"sg": "Gô", "fr": "la gorge", "en": "throat"},
+    {"sg": "Gô", "fr": "le cou", "en": "neck"},
+    {"sg": "Biyö tî gô", "fr": "les vertèbres cervicales", "en": "cervical vertebrae"},
+    {"sg": "Kate", "fr": "la poitrine, la cage thoracique", "en": "chest, ribcage"},
+    {"sg": "Pîka kate", "fr": "se frapper la poitrine de fierté, d'orgueil", "en": "beat one's chest in pride, arrogance"},
+    {"sg": "Pîka kate", "fr": "se frapper la poitrine d'orgueil", "en": "beat one's chest in arrogance"},
+    {"sg": "Pîka kate", "fr": "être orgueilleux", "en": "be proud"},
+    {"sg": "Me", "fr": "les seins, les mamelles", "en": "breasts, udders"},
+    {"sg": "Mabôko", "fr": "le bras", "en": "arm"},
+    {"sg": "Mabôko", "fr": "l'avant-bras", "en": "forearm"},
+    {"sg": "Mabôko", "fr": "la main", "en": "hand"},
+    {"sg": "Kêtê mabôko", "fr": "les doigts", "en": "fingers"},
+    {"sg": "nzîna mabôko", "fr": "les doigts", "en": "fingers"},
+    {"sg": "Mabôko tî kôlï", "fr": "bras droit", "en": "right arm"},
+    {"sg": "Mabôko tî Kötï", "fr": "bras droit", "en": "right arm"},
+    {"sg": "Mabôko tî Gätï", "fr": "bras gauche", "en": "left arm"},
+    {"sg": "Mabôko tî wâlï", "fr": "bras gauche", "en": "left arm"},
+    {"sg": "Nzënë tî mabôko", "fr": "les ongles", "en": "nails"},
+    {"sg": "Yâ tî mabôko", "fr": "la paume", "en": "palm"},
+    {"sg": "Biyö tî mabôko", "fr": "l'humérus", "en": "humerus"},
+    {"sg": "Biyö tî mabôko", "fr": "le radius", "en": "radius"},
+    {"sg": "Biyö tî mabôko", "fr": "le cubitus", "en": "ulna"},
+    {"sg": "Biyö tî mabôko", "fr": "le carpe", "en": "carpus"},
+    {"sg": "Pekô", "fr": "le dos", "en": "back"},
+    {"sg": "Yâ", "fr": "le ventre", "en": "belly"},
+    {"sg": "Yâ", "fr": "l'estomac", "en": "stomach"},
+    {"sg": "Gbe tî yâ", "fr": "le bas ventre", "en": "lower belly"},
+    {"sg": "Kundü", "fr": "l'estomac", "en": "stomach"},
+    {"sg": "Bê", "fr": "le coeur", "en": "heart"},
+    {"sg": "Fufû", "fr": "les poumons", "en": "lungs"},
+    {"sg": "Kötä kâmba tî yâ", "fr": "gros intestin", "en": "large intestine"},
+    {"sg": "Kêtê kâmba tî yâ", "fr": "l'intestin grêle", "en": "small intestine"},
+    {"sg": "Tûrûmbu", "fr": "le nombril", "en": "navel"},
+    {"sg": "Ngbondâ", "fr": "fesse(s)", "en": "buttock(s)"},
+    {"sg": "Biyö tî ngbondâ", "fr": "l'os iliaque", "en": "iliac bone"},
+    {"sg": "Dû tî ngbondâ", "fr": "l'anus", "en": "anus"},
+    {"sg": "Dünyerë", "fr": "l'anus", "en": "anus"},
+    {"sg": "Dondö", "fr": "le sexe féminin", "en": "female sex"},
+    {"sg": "Këngë", "fr": "le pénis", "en": "penis"},
+    {"sg": "Korobô", "fr": "les testicules", "en": "testicles"},
+    {"sg": "Gerê", "fr": "la jambe, le pied", "en": "leg, foot"},
+    {"sg": "Kêtê gerê", "fr": "les orteils", "en": "toes"},
+    {"sg": "Nzîna gerê", "fr": "les orteils", "en": "toes"},
+    {"sg": "Biyö tî gerê", "fr": "le fémur", "en": "femur"},
+    {"sg": "Biyö tî gerê", "fr": "le tibia", "en": "tibia"},
+    {"sg": "Biyö tî gerê", "fr": "le péroné", "en": "fibula"},
+    {"sg": "Ndâ-gerê", "fr": "le talon", "en": "heel"},
+    {"sg": "Gerê tî kôlï", "fr": "la jambe droite", "en": "right leg"},
+    {"sg": "Gerê tî kôlï", "fr": "le pied droit", "en": "right foot"},
+    {"sg": "Gerê tî wâlï", "fr": "la jambe gauche", "en": "left leg"},
+    {"sg": "Gerê tî wâlï", "fr": "le pied gauche", "en": "left foot"},
+    {"sg": "Lïkunï", "fr": "genou", "en": "knee"},
+    {"sg": "Biyö tî lïkunï", "fr": "la rotule", "en": "patella"},
+    {"sg": "Kwa tî âmbênî yê tî terê tî ë ôko ôko", "fr": "Le rôle de certaines parties de notre corps", "en": "The role of certain parts of our body"},
+    {"sg": "Na Bê-Afrîkaâ, töngana môlengê amä ndo pëpë, âkötä zo agü li tî lo", "fr": "En Centrafrique, lorsqu'un enfant fait une bêtise, on lui cogne la tête.", "en": "In Central Africa, when a child misbehaves, they are hit on the head."},
+    {"sg": "Me nzönî môlengê agbû li tî lo, kôzo tîtene lo sâra mbênî yê nzoni", "fr": "Mais lorsqu'un enfant sage réfléchit, c'est avant tout pour faire quelque chose de bien.", "en": "But when a well-behaved child thinks, it is primarily to do something good."},
+    {"sg": "Töngana adü môlengê, sï lo yeke na kûâ tî li mîngi pëpë, a îri lo : \"Lakpängbä\" (chauve)", "fr": "Lorsqu'on met au monde un enfant, si celui-ci n'a pas de cheveux, on l'appelle \"Lakpängbä\" (chauve).", "en": "When a child is born without hair, they are called \"Lakpängbä\" (bald)."},
+    {"sg": "Bîanî : kûâ tî li ayeke yê tî särängö na baba tî âwâlï !", "fr": "Définitivement : les cheveux permettent aux femmes de se faire belles !", "en": "Definitely: hair allows women to beautify themselves!"},
+    {"sg": "Me, ânge ! Töngana tiri atï na pöpö tî âlaâ, âla yê mîngi tî gbôto gï kûâ tî li tî âmbâ tî âla...", "fr": "Mais, attention ! Lorsqu'une dispute éclate entre eux, elles ont vite fait d'arracher les cheveux de l'autre...", "en": "But, beware! When a dispute arises between them, they quickly pull each other's hair out..."},
+    {"sg": "Kpïngbä kusâra tî lê ayeke tî bâa ndo.", "fr": "Le rôle des yeux est de voir.", "en": "The role of the eyes is to see."},
+    {"sg": "Mo bâa môlengê-wâlï sô ? Lo'ke pendere !", "fr": "Tu as vu la femme ? Elle est belle !", "en": "Did you see that woman? She is beautiful!"},
+    {"sg": "Mälä na môlengê-wâlï sô ayeke bâa lê tî terê mîngi !", "fr": "Mälä et cette femme se jettent beaucoup de regards furtifs !", "en": "Mälä and that woman exchange many furtive glances!"},
+    {"sg": "Kpïngbä kusâra tî hôn ayeke tî mä füngö tî âyê", "fr": "Le rôle du nez est de sentir les odeurs.", "en": "The role of the nose is to smell scents."},
+    {"sg": "Kpïngbä kusâra tî hôn ayeke tî mä fîon tî âyê", "fr": "Le rôle du nez est de sentir les odeurs.", "en": "The role of the nose is to smell scents."},
+    {"sg": "Mafüta tî terê  sô afü pendere mîngi !", "fr": "Cette crème pour la peau sent très bon !", "en": "This skin cream smells very good!"},
+    {"sg": "Yê agbô hôn tî lo !", "fr": "il a eu chaud !", "en": "He was hot!"},
+    {"sg": "Kwa tî mê ayeke tî mä yê kwê !", "fr": "Le rôle des oreilles est de tout entendre !", "en": "The role of the ears is to hear everything!"},
+    {"sg": "Mä mbï sï ! Töngana mo laâ sï agü li tî mo töngasô, fadë anzere na moô ?", "fr": "Ecoute-moi ! Si c'est toi qu'on avait cogné la tête de la sort, tu aurais été content ?", "en": "Listen to me! If it was you who had been hit on the head like that, would you have been happy?"},
+    {"sg": "Mä tî mo vene tî lo sô pëpëe !", "fr": "N'écoute pas ses mensonges !", "en": "Don't listen to his/her lies!"},
+    {
+        "sg": "Bengbä mafüta",
+        "fr": "huile rouge",
+        "en": "red oil"
+    },
+    {
+        "sg": "Finî bûku",
+        "fr": "un manuel tout neuf",
+        "en": "a brand new manual"
+    },
+    {
+        "sg": "Ndurü lêgë",
+        "fr": "le chemin le plus court",
+        "en": "the shortest path"
+    },
+    {
+        "sg": "Kötä hötö",
+        "fr": "une grande montagne",
+        "en": "a big mountain"
+    },
+    {
+        "sg": "Kêtê hötö",
+        "fr": "une colline",
+        "en": "a hill"
+    },
+    {
+        "sg": "Bûku sô angbâ finî nî",
+        "fr": "ce manuel est encore tout neuf",
+        "en": "this manual is still brand new"
+    },
+    {
+        "sg": "Lêgë sô laâ ayeke ndurü",
+        "fr": "voici le chemin le plus court",
+        "en": "here is the shortest path"
+    },
+    {
+        "sg": "Lo de kêtê !",
+        "fr": "il est encore tout petit !",
+        "en": "he is still very small!"
+    },
+    {
+        "sg": "pandôo",
+        "fr": "nom",
+        "en": "name"
+    },
+    {
+        "sg": "palî",
+        "fr": "verbe",
+        "en": "verb"
+    },
+    {
+        "sg": "Âfinî bûku",
+        "fr": "un manuel tout neuf",
+        "en": "a brand new manual"
+    },
+    {
+        "sg": "Âfinî bûku",
+        "fr": "un livre tout neuf",
+        "en": "a brand new book"
+    },
+    {
+        "sg": "Ânduru lêgë",
+        "fr": "des chemins très courts",
+        "en": "very short paths"
+    },
+    {
+        "sg": "Ânzönî zo",
+        "fr": "de bonnes personnes",
+        "en": "good people"
+    },
+    {
+        "sg": "Âbuku sô angbâ finî nî",
+        "fr": "ces livres sont encore tout neufs",
+        "en": "these books are still brand new"
+    },
+    {
+        "sg": "Âbuku sô angbâ finî nî",
+        "fr": "ces manuels sont encore tout neufs",
+        "en": "these manuals are still brand new"
+    },
+    {
+        "sg": "Âbuku sô angbâ finî nî",
+        "fr": "ces bouquets sont encore tout neufs",
+        "en": "these bouquets are still brand new"
+    },
+    {
+        "sg": "Âla de kêtê, sï !",
+        "fr": "ils se refroidissent un peu d'abord",
+        "en": "they cool down a bit first"
+    },
+    {
+        "sg": "Âmângo so kwê angbâ kpikpîi nî",
+        "fr": "Toutes ces mangues sont encore vertes",
+        "en": "All these mangoes are still green"
+    },
+    {
+        "sg": "tôngana nye ?",
+        "fr": "comment ?",
+        "en": "how?"
+    },
+    {
+        "sg": "Kôlï sô ange kêtê !",
+        "fr": "Cet homme a maigri un peu",
+        "en": "This man has lost some weight!"
+    },
+    {
+        "sg": "Kpë yeke, sï !",
+        "fr": "Roule lentement, s'il te plaît",
+        "en": "Drive slowly, please"
+    },
+    {
+        "sg": "Kôbe nî anzere mîngi !",
+        "fr": "C'était très bon, le repas !",
+        "en": "The meal was very good!"
+    },
+    {
+        "sg": "Lo yê yöröngö-fondo mîngi !",
+        "fr": "il adore la banane frite !",
+        "en": "he loves fried banana!"
+    },
+    {
+        "sg": "Âla yeke dîko tënë hîo hîo mîngi !",
+        "fr": "vous parlez trop vite !",
+        "en": "you speak too fast!"
+    },
+    {
+        "sg": "Bîrï, lo nyö sämba kpâtyâ !",
+        "fr": "Hier, il s'est enivré en bloc !",
+        "en": "Yesterday, he got drunk a lot!"
+    },
+    {
+        "sg": "Bîrï, lo nyö sämba kpâtyâ !",
+        "fr": "Hier, il a beaucoup bu !",
+        "en": "Yesterday, he drank a lot!"
+    },
+    {"sg": "Ngbâ", "fr": "rester"},
+    {"sg": "Yo", "fr": "être loin"},
+    {"sg": "Yöngö", "fr": "action de se situer loin"},
+    {"sg": "Gbikï", "fr": "la sueur"},
+    {"sg": "Gbô", "fr": "attraper"},
+    {"sg": "Lâ", "fr": "le soleil"},
+    {"sg": "Töndâ", "fr": "commencer"},
+    {"sg": "Sïgï", "fr": "sortir"},
+    {"sg": "Sïgïgï", "fr": "sortir"},
+    {"sg": "Sïgïngö", "fr": "action de sortir"},
+    {"sg": "Sï", "fr": "arriver"},
+    {"sg": "Sïngö", "fr": "arrivée"},
+    {"sg": "Lütï", "fr": "se tenir debout"},
+    {"sg": "Lütï", "fr": "s’arrêter"},
+    {"sg": "Gï", "fr": "que…"},
+    {"sg": "Gï", "fr": "n’agir"},
+    {"sg": "Gï", "fr": "ne parler qu’avec…"},
+    {"sg": "Nînga", "fr": "durer"},
+    {"sg": "Su", "fr": "briller"},
+    {"sg": "Süngö", "fr": "action de briller"},
+    {"sg": "Sï", "fr": "arriver"},
+    {"sg": "Sïngö", "fr": "action d’arriver"},
+    {"sg": "Lêgë", "fr": "la route"},
+    {"sg": "Lêgë", "fr": "le chemin"},
+    {"sg": "Yângâ tî lêgë", "fr": "au bord de la route"},
+    {"sg": "Îri", "fr": "appeler"},
+    {"sg": "Îri", "fr": "demander quelque chose"},
+    {"sg": "Mû", "fr": "prendre quelque chose"},
+    {"sg": "Mû", "fr": "donner à…"},
+    {"sg": "Nyö", "fr": "boire"},
+    {"sg": "Dutï", "fr": "s’asseoir"},
+    {"sg": "Wo", "fr": "respirer"},
+    {"sg": "Wo terê", "fr": "se reposer"},
+    {"sg": "Wôko", "fr": "être fatigué"},
+    {"sg": "Wôko", "fr": "exaspérer quelqu’un"},
+    {"sg": "Bê", "fr": "le coeur"},
+    {"sg": "Nzere", "fr": "avoir bon goût"},
+    {"sg": "Nzere", "fr": "se réjouir"},
+    {"sg": "Bê tî mbï anzere tî bâa mo ge!", "fr": "Mon cœur se réjouit de te voir ici"},
+    {"sg": "Söngö", "fr": "la famille"},
+    {"sg": "Söngö", "fr": "les relations amicales"},
+    {"sg": "Bäa", "fr": "voir"},
+    {"sg": "Bäa", "fr": "regarder"},
+    {"sg": "Yamba", "fr": "accueillir chaleureusement"},
+    {"sg": "Yämbängö", "fr": "action d’accueillir"},
+    {"sg": "Nzönî-bê", "fr": "de bon cœur, avec reconnaissance"},
+    {"sg": "Fâa", "fr": "couper"},
+    {"sg": "Fâa", "fr": "tuer"},
+    {"sg": "Fâa", "fr": "traverser"},
+    {"sg": "Kanivöo", "fr": "caniveau"},
+    {"sg": "Kângbi", "fr": "séparer"},
+    {"sg": "Lê", "fr": "œil"},
+    {"sg": "Lê", "fr": "yeux"},
+    {"sg": "Lê", "fr": "surface"},
+    {"sg": "Lê", "fr": "étendue"},
+    {"sg": "lê tî ködrö", "fr": "l’étendue du village"},
+    {"sg": "Gwe", "fr": "aller"},
+    {"sg": "Gwe", "fr": "s’en aller"},
+    {"sg": "Gwe", "fr": "partir"},
+    {"sg": "Mambôko", "fr": "la main"},
+    {"sg": "Mabôko", "fr": "la main"},
+    {"sg": "Dîko", "fr": "lire"},
+    {"sg": "Tene", "fr": "dire"},
+    {"sg": "Tënë", "fr": "parole"},
+    {"sg": "Tene tënë", "fr": "dire des choses"},
+    {"sg": "dîko tënë", "fr": "dire des choses"},
+    {"sg": "Ngendë", "fr": "chaise"},
+    {"sg": "Ngendë", "fr": "fauteuil"},
+    {"sg": "Hînga", "fr": "savoir"},
+    {"sg": "Fadësô", "fr": "maintenant"},
+    {"sg": "Gene", "fr": "visiteur"},
+    {"sg": "Gä gene", "fr": "venir en visite"},
+    {"sg": "Mbênî lâ, Pûpûlenge aduti ndurü na terê tî âkongö. Lo yeke töngana zo tî mawa ngbanga tî sô lo yeke gï lo ôko. Lo tene na bê tî lo :", "fr": "Il était une fois, Pûpûlenge le papillon s'est assis à côté de tortues. Il était triste car il était seul. Se disait-il à lui-même :"},
+    {"sg": "Fadë mbï gi mbênî zo, tî sâra ngîâ na mbï !", "fr": "Ainsi, je dois chercher des gens avec qui jouer"},
+    {"sg": "Lo huru, lo hûnda Dâlë :", "fr": "Il vola et alla demander à Dâlë le crapaud :"},
+    {"sg": "Dâlë ! Gä mo sâra ngîâ na mbï !", "fr": "Dâlë ! Viens jouer avec moi !"},
+    {"sg": "Me Dâlê atene :", "fr": "Mais Dâlë le crapaud lui dit :"},
+    {"sg": "Ên-ën ! Mbï lîngbi tî sâra ngîâ na mo äpëe. Mbï wôko mîngi !", "fr": "Non ! Je ne peux pas jouer avec toi. Je suis trop fragile !"},
+    {"sg": "Töngasô lo huru, lo hön na terê tî ngû. Lo hûnda Susu :", "fr": "Il vola alors, passa près de l'eau. Il alla demander à Susu le poisson :"},
+    {"sg": "Susu ! Gä mo sâra ngîâ na mbï ma !", "fr": "Susu ! Viens jouer avec moi s'il te plaît !"},
+    {"sg": "Me Susu atene :", "fr": "Mais Susu lui dit :"},
+    {"sg": "Ên-ën ! Mbï lîngbi tî sâra ngîâ na mo äpëe. Mbï yeke ngbâ tî mbï gï na yâ tî ngû !", "fr": "Non ! Je ne peux pas jouer avec toi. Je ne peux que rester dans l'eau !"},
+    {"sg": "Töngasô lo huru, lo hûnda Kôndo :", "fr": "C'est ainsi qu'il vola et alla demander à Kôndo le poulet :"},
+    {"sg": "Kôndo ! Gä mo sâra ngîâ na mbï ma!", "fr": "Kôndo ! Viens jouer avec moi s'il te plaît !"},
+    {"sg": "Me Kôndo atene :", "fr": "Mais Kôndo le poulet lui dit :"},
+    {"sg": "Ên-ën ! Mbï lîngbi tî sâra ngîâ na mo äpë ngbanga tî sô alîngbi mbï gi kôbe tî mbï !", "fr": "Non ! Je ne peux pas jouer avec toi car je dois chercher ma nourriture !"},
+    {"sg": "Töngasô lo huru, lo hûnda Kange :", "fr": "Il vola et alla demander à Kange le termite :"},
+    {"sg": "Kange ! Gä mo sâra ngîâ na mbï ma !", "fr": "Kange ! Viens jouer avec moi s'il te plaît !"},
+    {"sg": "Me Kange atene :", "fr": "Mais Kange le termite lui dit :"},
+    {"sg": "Ên-ën ! Mbï lîngbi tî sâra ngîâ na mo äpë. A yeke nzönî mbï leke da tî mbï !", "fr": "Non ! Je ne peux pas jouer avec toi. Je préfère construire ma termitière !"},
+    {"sg": "Töngasô lo huru, lo hûnda na mbênî kêtê môlengê :", "fr": "Il vola et alla demander à un enfant :"},
+    {"sg": "Gä mo sâra ngîâ na mbï ma !", "fr": "Viens jouer avec moi s'il te plaît !"},
+    {"sg": "Môlengê nî atene :", "fr": "L'enfant lui dit :"},
+    {"sg": "Eên ! Gä, ë sâra ngîâ !", "fr": "Oui ! Viens, on va jouer !"},
+    {"sg": "Lo gbô Pûpûlenge, sï lo kânga kâmba na gerê tî lo...", "fr": "Il attrapa Pûpûlenge et attacha une corde à sa patte..."},
+    {"sg": "Töngasô, Pûpûlenge agä taâ zo tî mawa...", "fr": "Alors, Pûpûlenge est devenu triste"},
+    {"sg": "Zo wa laâ sï ayeke gwe tambêla sô, zo wa ?", "fr": "Qui est cette personne qui marche ?"},
+    {"sg": "Lo yeke tambêla töngana nye ?", "fr": "Comment marche t-il ?"},
+    {"sg": "Lo yeke gwe na ndo wa ?", "fr": "Où va-t-il ?"},
+    {"sg": "A tokua loô, wala a îri lo ?", "fr": "L'as t-on envoyé, ou l'a-t-on appelé ?"},
+    {"sg": "Âzo tî Düngû ayamba lo töngana nye ?", "fr": "Comment les gens de Düngû l'ont-ils accueilli ?"},
+    {"sg": "Solôla", "fr": "échanger"},
+    {"sg": "Solôla", "fr": "bavarder"},
+    {"sg": "Solôla", "fr": "se raconter des histoires"},
+    {"sg": "Töndâ tî", "fr": "commencer à"},
+    {"sg": "Yôro", "fr": "rôtir"},
+    {"sg": "Yôro", "fr": "introduire"},
+    {"sg": "Pandôo", "fr": "un nom commun"},
+    {"sg": "Palî", "fr": "un verbe"},
+    {"sg": "Pasûndâ", "fr": "un adjectif qualificatif"},
+    {"sg": "Mbasêlî", "fr": "un adverbe"},
+    {"sg": "Pahûnda", "fr": "un interrogatif"},
+    {"sg": "Polïfa", "fr": "un démonstratif"},
+    {"sg": "Sëtë", "fr": "un connecteur"},
+    {"sg": "Sëtë", "fr": "de"},
+    {"sg": "Sëtë", "fr": "à"},
+    {"sg": "Sëtë", "fr": "pour"},
+    {"sg": "Sëtë", "fr": "quant à"},
+    {"sg": "Sëtëpande", "fr": "un conjonctif"},
+    {"sg": "Tâhüzü", "fr": "une préposition"},
+    {"sg": "Hâa gbä", "fr": "essayer en vain, ne plus tenir"},
+    {"sg": "Dëköngö", "fr": "crier, s'exclamer"},
+    {"sg": "Wôko", "fr": "être fatigué"},
+    {"sg": "Wôko", "fr": "mou"},
+    {"sg": "Wôko", "fr": "pousser quelqu'un à bout"},
+    {"sg": "Wôko", "fr": "le fatiguer"},
+    {"sg": "Wü", "fr": "être nombreux"},
+    {"sg": "Wüngö", "fr": "le nombre de..."},
+    {"sg": "Son", "fr": "faire souffrir"},
+    {"sg": "Son", "fr": "être un dur à cuire"},
+    {"sg": "Zâan na âîtä tî lo gä fadë ge", "fr": "Jean et ses frères étaient ici tout à l'heure"},
+    {"sg": "Da tî âla gbï !", "fr": "Leur maison a brûlé!"},
+    {"sg": "Mälä na Îsa yê tî gä tî bâa mo", "fr": "Mälä et Îsa souhaiteraient te rencontrer"},
+    {"sg": "Bîrï, zo kwê dödö!", "fr": "Hier, tout le monde a dansé!"},
+    {"sg": "Kekerêke, âla yeke gwe ânde na ndo wa?", "fr": "Demain, où irez-vous?"},
+    {"sg": "Na yenga sô (yeke gä), ë (yeke bâa) ânde !", "fr": "La semaine prochaine, nous verrons!"},
+    {"sg": "Wa-mändängö-yê yeke sü mandako !", "fr": "Les étudiants sont en examen!"},
+    {"sg": "Mo yeke gi tënë mîngi!", "fr": "Tu provoques, vraiment!"},
+    {"sg": "Finî gügü sï awe!", "fr": "Les champignons nouveaux sont arrivés!"},
+    {"sg": "Töngana lo yê, lo gä!", "fr": "S'il le désire vraiment, qu'il vienne !"},
+    {"sg": "Ngû-nzapä yeke löndö!", "fr": "La pluie menace!"},
+    {"sg": "Zo nî kwê hön na ndo wa?", "fr": "Où donc sont-ils tous partis?"},
+    {"sg": "Mêlengê sô azîa bûku tî mbï na ndo wa ?", "fr": "Où est-ce que cet enfant a mis mon livre?"},
+    {"sg": "Kutukutu nî alütï gï kêtê, sï akîri ahön.", "fr": "La voiture s'est arrêtée juste un peu, puis elle est repartie."},
+    {
+        "sg": "Bê tî YâsÎ anzere mîngi ndâli tî so lo wara mandako tî lo tî gwê na ködrö-wandê awe.",
+        "fr": "YâsÎ est très contente car elle a appris qu'elle allait voyager à l'étranger."
+    },
+    {
+        "sg": "Âfotöo kwê sô îtä tî mo amû sô, asïgï nzônî.",
+        "fr": "Toutes les photos que ton frère a prises sont sorties bonnes."
+    },
+    {
+        "sg": "Âfotöo kwê sô îtä tî mo amû sô, asïgï nzônî.",
+        "fr": "Toutes les photos que ta soeur a prises sont sorties bonnes."
+    },
+    {
+        "sg": "Yayâ tî mbï aîri mbï tî gwe tî te yê na ndo tî lo lâsô, ngbanga tî sô ayeke matânga tî düngö mbï !",
+        "fr": "Mon grand frère m'a appelé pour aller manger chez lui aujourd'hui, car c'est mon anniversaire !"
+    },
+    {
+        "sg": "Yayâ tî mbï aîri mbï tî gwe tî te yê na ndo tî lo lâsô, ngbanga tî sô ayeke matânga tî düngö mbï !",
+        "fr": "Ma grande soeur m'a appelé pour aller manger chez lui aujourd'hui, car c'est mon anniversaire !"
+    },
+    {
+        "sg": "Kîri, mo sâra marâ tî tënë sô pëpëe !",
+        "fr": "Va-t-en, tu ne peux pas dire des choses comme ça !"
+    },
+    {
+        "sg": "Foko ë kîri na da kôzo tîtene ndo avûko.",
+        "fr": "Il faut qu'on rentre à la maison avant qu'il ne fasse nuit."
+    },
+    {
+        "sg": "Na tângo so sï âla âla mä toto tî mêlengê nî, sï âla hînga atene lô de na finî.",
+        "fr": "Quand ils ont entendu les cris de l'enfant, c'est alors qu'ils ont su qu'il a vomi."
+    },
+    {
+        "sg": "Mbï yeke wara ânde tângo tî ûnzi âkwa sô kwê, laâa ?",
+        "fr": "Est-ce que j'aurais le temps de finir tout mon travail ?"
+    },
+    {
+        "sg": "Mamâ aûnzi töngö kôbe tî lo awe. Lo yeke wü terê tî lo.",
+        "fr": "Ma mère a fini de préparer le repas. Elle se repose maintenant."
+    },
+    {
+        "sg": "Mamâ aûnzi töngö kôbe tî lo awe. Lo yeke wü terê tî lo.",
+        "fr": "Maman a fini de préparer le repas. Elle se repose maintenant."
+    },
+    {
+        "sg": "Pâlo ayeke gwe ânde tî bâa sinemäa sô pëpëe. Lêgê nî ayo mîngi.",
+        "fr": "Paul ne pourra pas aller au cinéma. Le chemin est trop long."
+    },
+    {
+        "sg": "Dê ayeke ûru mîngi na gïgï. Mû bongö tî dê tî mo bîanî.",
+        "fr": "Il fait très froid dehors. Prends ton pull en même temps."
+    },
+    {
+        "sg": "Âwafängö ngbanga agi ndâ tî tënë sô yongôro mîngi. Âla wara gbâ tî kûngbâ na da tî lo.",
+        "fr": "Les juges sont allés loin dans leur enquête sur la cause du problème. Ils ont trouvé plein de bagages dans sa maison."
+    },
+    {
+        "sg": "Kutukutu tï ë nî akwîi awe. Ë yeke hön ânde tî bâa mo pëpëe.",
+        "fr": "Notre voiture est tombée en panne. Nous ne pourrons pas aller te voir."
+    },
+    {
+        "sg": "Mo yeke taâ na nzönî päsä bîanî. Yayâ tî mo ayeke gä mbênî pëpëe.",
+        "fr": "Tu as vraiment beaucoup de chance. Pareil pour ton grand frère."
+    },
+    {
+        "sg": "Lo gä na kötâ ndäpêrê. Lo yeke wara mbï ânde pëpëe.",
+        "fr": "S'il vient tôt le matin, il ne me trouvera pas."
+    },
+    {
+        "sg": "Bebëe ayeke sâra ngîâ töngana tî kôzo pëpëe. Lo yeke na kobêla.",
+        "fr": "L'enfant ne s'amuse plus comme avant. Il est malade."
+    },
+    {
+        "sg": "Toto mîngi äpëe. Mamâ ayeke kîri !",
+        "fr": "Ne pleure pas. Maman va revenir !"
+    },
+    {
+        "sg": "Sü na mbï âpandôo ukü, nga na âpalî ukü sô mo hînga na yângâ tî Sängö. Yôro âla ôko ôko kwê na yâ tî mbênî tënë tî bê tî mo, atâa tënë nî ayeke ndurü, wala yongôro.",
+        "fr": "Ecris moi cinq noms, et cinq verbes que tu connais en Sango. Inclue-les dans des phrases, qu'elles soient courtes ou longues."
+    },
+    {
+        "sg": "Mo sü ngâ âpahûnda ukü. Mo yôro âla ôko ôko ngâ na yâ tî âtênë tî bê tî mo.",
+        "fr": "Prends cinq interrogatifs. Inclue-les dans tes phrases."
+    },
+    {
+        "sg": "Mo hînga âtâhüzü ôke ? Yôro âla na yâ tî âmbênî tënë, ë bâa !",
+        "fr": "Combien de prépositions connais-tu ? Inclue-les dans des phrases pour voir."
+    },
+    {
+        "sg": "Sü na ë âtênë tî ngangü ukü, ë bâa !",
+        "fr": "Ecris moi cinq phrases sur les braves pour voir."
+    },
+    {
+        "sg": "Ngbonga nî asï ngbonga balë-ôko tî bï awe.",
+        "fr": "Il est dix heures du soir."
+    },
+    {
+        "sg": "Ngbonga nî asï ngbonga balë-ôko tî bï awe.",
+        "fr": "Il est vingt-deux heures."
+    },
+    {
+        "sg": "Kötä laparâa sô fadë gbâ tî âzo ayeke kö na yânî sô, ahön yekeee, aleke terê tî lô na li tî lêgë tî löndöngö wala tî tïngö da nzönî. Na pekônî, lo mû kotä lörö ngbiii, lo löndö ! Mo mä toto nî ! Mê tî âzo akânga ! Âwâ tî terê nî azä, amîngo, azä, amîngo... Mo yê tî bâa sô, laparâa nî agrisa na lê tî âzo sô fadë angbâ tî bângö pekônî sô.",
+        "fr": "Le grand avion rempli de passagers a roulé doucement jusqu'à se mettre en bout de piste. Puis, il a pris de la vitesse et s'est envolé. Le bruit de ses moteurs était assourdissant. Il y avait des lumières qui clignotaient tout autour de l'avion. Puis, il a finalement disparu dans le ciel."
+    },
+    {
+        "sg": "Awe ! Roasïi, kötä gbägbä tî âlaparâa na Farânzi ge, angbâ na pekô, me Bangî laâ fadësô ayeke gä ndurüüüüü.",
+        "fr": "Maintenant Roissy, un grand aéroport en France, est désormais derrière nous, mais maintenant c'est Bangui qui se rapproche."
+    },
+    {
+        "sg": "Mbênî lâ, Mälä ayeke fono na yâ tî garâ tî Miskîne. Lo têngbi na mbênî pendere mêlengê-kôlï, sô ayeke tara tî tene yângâ tî Sängö na âwâliï-garâ, sï lo ngba, lo hûnda lo :",
+        "fr": "Il était une fois, Mälä marchait dans le marché de Miskine. Il rencontra un beau jeune homme qui tentait de discuter en Sängö avec les vendeuses du marché. Il s'est alors arrêté et l'a demandé :"
+    },
+    {
+        "sg": "Töngana nye ?",
+        "fr": "Comment ça va ?"
+    },
+    {
+        "sg": "Yê a'ke äpëe !",
+        "fr": "Ça va bien !"
+    },
+    {
+        "sg": "Mo yeke manda Sängöô ?",
+        "fr": "T'apprends le Sängö ?"
+    },
+    {
+        "sg": "Iiin ! Mbï yeke manda Sängö ! Yângâ tî Sängö akpîngba mîngiî ?",
+        "fr": "Oui ! J'apprends le Sängö ! Le Sängö est-il difficile ?"
+    },
+    {
+        "sg": "Ôko pëpëe ! Sängö apîngba ôko pëpëe !",
+        "fr": "Pas du tout ! Le Sängö n'est pas difficile !"
+    },
+    {
+        "sg": "Taâ tënëê ?",
+        "fr": "Ah, oui ?"
+    },
+    {
+        "sg": "Iiin ! Taâ tënë ! Fadë mo hînga nî ânde hîo ! Mo yeke tene lingâlaâ ?",
+        "fr": "Oui ! C'est vrai ! Tu l'apprendras assez vite ! Parles-tu le Lingala ?"
+    },
+    {
+        "sg": "Kêtê-kêtê !",
+        "fr": "Un peu !"
+    },
+    {
+        "sg": "Sô nzönî !",
+        "fr": "C'est bien !"
+    },
+    {
+        "sg": "Bêfio ayeke kä kôbe na galâ. Wâlï tî lo ayeke fa mbëtï na âmôlengê tî lo na da. Wâlï sô ahinga tî fa mbëtï mîngi ! Nî laâ sï âmôlengê tî lo kûê ayeke dîko na asü mbëtï nzönî. Taâ tî mbênî môlengê nî sô ïrï tî lo Privat, sô hïngängö ndo äpëe !",
+        "fr": "Bêfio vend de la nourriture au marché. Sa femme enseigne à domicile à des enfants. Sa femme est une très bonne enseignante ! C'est pourquoi tous ses élèves savent très bien lire et écrire. Parmi ses élèves, il y a un enfant qui s'appelle Privat, il est très intelligent !"
+    },
+    {
+        "sg": "Mbênî lâ, âmolengê tî wâlï nî ayeke gue na galâ, avo kôbe. Mamâ tî âla afa töngönî na âla ; âla yeke manda nî nzönî lâkûê. Töngana âla te kôbe nî awe, âla yeke fü bongö. Sô kûê ayeke mamâ tî âla laâ afa na âla Âmôlengê tî wâlï sô ahînga yê sô aîri kodë-kua tî töngö-yê, ndâli tî mamâ tî âla.",
+        "fr": "Une fois, les enfants de la femme sont allés au marché, pour acheter de la nourriture. Leur mère leur a montré comment préparer; ils ont très bien appris. Quand ils ont fini de préparer, ils cousent des habits. Ça aussi, c'est leur mère qui a appris aux filles afin qu'elles connaissent l'art de la cuisine, grâce à leur mère."
+    },
+    {
+        "sg": "Âdu tî âmôlengê tî kôlï nî, âla yeke sâra kua kûê : âla yeke tö ngû, âla tö ngâ kôbe töngana âîtä tî wâlï nî. Na lâpôso âla yeke gue tî gi susu na yângâ tî bale Ûbangî.",
+        "fr": "Quant aux garçons, ils savent tout faire : ils savent puiser de l'eau, ils savent préparer la nourriture comme leur sœur. Et l'après-midi, ils vont chercher du poisson au bord de la rivière Ubangi."
+    },
+    {"sg": "Âla tene : mbï înga yângâ tî munzû pepëe, mbï înga mbëtï pëpëe, mbï mä farânzi pëpëe, wala na angelëe, wala na pûra, wala na arâbu, mbï înga yê pëpëe !", "fr": "Ils disent : je n'ai aucune connaissance des langues occidentales, je ne sais pas lire ni écrire, je ne comprends pas le français, ni l'anglais, ni le portugais, ni l'arabe, je ne sais rien !"},
+    {"sg": "Mawa na âla !", "fr": "Pauvre d'eux !"},
+    {"sg": "Mbï ngâ, mbï înga mbëtï : mbï tene Sângö nzönî ; mbï sü tënë tî bê tî mbï na yângâ tî Sängö ; mbï dîko bûku na âmbëtï tî Sängö sô asü nî kûê na Sängö ; Mbï kûê, mbï înga mbëtï !", "fr": "Moi j'ai des connaissances : je parle le Sängö ; j'écris ce que j'ai sur le coeur en Sängö ; je lis beaucoup de livres et de documents écrits en Sängö ; Moi aussi, j'ai des connaissances !"},
+    {"sg": "Mbï înga ködörö tî mbï ayeke na bê-afrîka ; ndâli nî laâ aîri Rëpüblîki tî Bê-Afrîka. Âködörö sô anguru lo ayeke Tyâde, Zaîri, Kongöo, Sudäan, na Kamerün.", "fr": "Je sais que mon pays est au centre de l'Afrique ; c'est la raison pour laquelle on l'appelle la République Centrafricaine. Il est entouré par le Tchad, le Zaïre, le Congo, le Soudan et le Cameroun."},
+    {"sg": "Mbï înga köngö tî ködörö tî mbï ; wüngö tî âzo alêngbi kûtu otâ na ndâmbo. Âkötä ötö tî Bongo na mbâgë tî Sudäan, Yadë na mbâgë tî Kamerün, gbakô tî âpendere këkë, kötä ngonda tî âpendere nyama.", "fr": "Je connais la géographie de mon pays; la population est de trois millions et demi d'habitants. De grandes montagnes se trouvent à Bongo du côté du Soudan, Yadé du côté du Cameroun, des forêts avec de beaux arbres, des plaines avec des animaux."},
+    {"sg": "Ûbangî, Löbâye, Ûwâme, Wäkä, Kotöo, ayeke âkötä bale sô asua na Bê-Afrîka : mbï înga !", "fr": "L'Oubangi, la Lobaye, l'Ouham, le Ouaka, le Kotto, sont des fleuves qui coulent en Centrafrique : je sais !"},
+    {"sg": "Mbï înga mosoro ndê ndê tî Bê-Afrîka : wîn tî Damaräa, diamäan na lörö tî Bria, Berberatïi na Boda, yäkä tî kâwa na sêse tî gbakô, tukîa na sêse tî pêrë, gozo, kârakö, sindi, alêngbi ndo kûê !", "fr": "Je connais les différentes ressources de la Centrafrique : les métaux de Damaräa, les diamants et l'or de Bria, Berberati et Boda, les champs ainsi que les terres de forêts, les herbes, les arachides, les céréales, sont partout !"},
+    {"sg": "Yê sô kûê, mbï înga, ngbanga tî sô mbï kûê mbï înga mbëtï na yângâ tî Sängö !", "fr": "Tout cela, je sais, parce que moi aussi je sais lire et écrire en Sängö !"},
+    {"sg": "burû", "fr": "saison sèche"},
+    {"sg": "gbe tî ngû", "fr": "saison des pluies"},
+    {
+        "sg": "Gä nzönî !",
+        "fr": "Bienvenue!"
+    },
+    {
+        "sg": "Sango tî süngö sängö",
+        "fr": "Nouvelles de l'orthographe sängö"
+    },
+    {
+        "sg": "Mo yeke nyîbâba awe?",
+        "fr": "Vous êtes déjà membre?"
+    },
+    {
+        "sg": "Tî manda sängö, sûnga na ndo sô",
+        "fr": "Pour apprendre le sängö, s'inscrire ici."
+    },
+    {
+        "sg": "Ândurü sango",
+        "fr": "Nouvelles brèves"
+    },
+    {
+        "sg": "Dasînga tî Bêafrîka asâra matânga tî ngû 50 tî lo na sïgïngö na Lêndo tî lo sô zo kûê alîngbi tî mä sango tî Bêafrîka daä na sângö na farânzi na gbâ tî âkusînga mîngi.",
+        "fr": "Radio Centrafrique célèbre ses 50 ans en se dotant d'un site tout neuf où elle diffuse de nombreuses émissions dont les journaux parlées en sängö et en français."
+    },
+    {
+        "sg": "Ngbêreyê ngû tî 2005 finî kodë tî süngö sängö na mbetti sasîgî ndâli tî sô âbûku ndê ndê mîngi ayeke sïgîgî na mbênî süngö-sängö sô sêgô nî ayeke daä mbênî pëpe, wala a yeke sû nî nzönî kûê äpe. Me finî süngö sängö sô andöyê bê tî âzo kûê pëpe. Ë hûnda na âdôngbi tî Bêafrîka balë-ôko tî tara nî na yâ tî ngû tî 2006 sô asï na 2007. Tî hînga yê kwê na ndö tî tenne nî, pîka kpêkê ge. E gbû gerê tî âla, sô sï ê de ë wara tângo tî gbîangbi âlêmbëtï nî na sängö pëpe, sï, tî fafadësô, âla lîngbi tî dîko nî gï na farânzi.",
+        "fr": "Une nouvelle orthographe du sängö avait été proposée dès 2005 car il y avait de nombreuses publications sans tons ou avec des tons mal transcrits. Mais cette nouvelle orthographe ne laisait pas à tout le monde. Nous avons demandé à dix organisations centrafricaines de la tester de 2006 à 2007. Pour en savoir plus, cliquez ici. Nous nous excusons de n'avoir pas eu le temps de traduire ces textes en sängö avant de vous les proposer. Pour le moment, ils ne sont disponibles qu'en français."
+    },
+    {
+        "sg": "Töngana mo yeke nyîbâda awe, sï mo yê gï tî lï na yâ tî bâda tî mo, soro mbëlä 'YSB sängö' na yâ tî mbênî motarâka sô na gale sô, mo soro 'Bâda', sï mo lï na pïkängö pafungûla tî mo. Töngana motarâka tî ndüzü nî asîgî pëpe, tara mo senga 'Java Runtime Environnement (JRE)' na ndö tî kombûta tî mo awe sï. Töngana kpëli-simbä tî mo ake tî wara mapîâ Java nî, alîngbi mo sâra kua gï na ûse motarâka sô na gale na gbenî sô",
+        "fr": "Si vous êtes déjà membre du Club et souhaitez simplement entrer dans votre club, sélectionner la commande 'YSB sängö' dans le menu en haut à gauche, puis 'Le Club'. Vous pouvez entrez dans le hall de votre Club en tapant votre mot de passe. Si le menu n'apparaît pas, il vous faut installer 'Java Runtime Environment JRE' au préalable sur votre ordinateur. Si votre logiciel de navigation ne le supporte pas, vous pouvez tout aussi bien utiliser le menu de secours situé en bas à gauche."
+    },
+    {
+        "sg": "Töngana mo sûnga na Bâda YSB sängö, fadë mo wara bûku tî mändängö sängö na nî sêsêngê. Âdu kôzo süngängö tî mo laâ, mo pîka kpêkê na ndo sô.",
+        "fr": "Pour recevoir gratuitement un livre électronique de cours de sängö, il suffit de s'inscrire au Club YSB sängö. Si c'est votre première inscription, cliquez ici."
+    },
+    {
+        "sg": "Töngana mo sûnga kôzonî awe, sï mo girisa pafungûla tî mo, kîri mo sûnga tî ûse nî töngana tî finî zo.",
+        "fr": "Si vous êtes déjà inscrit, mais que vous avez oublié votre mot de passe, réinscrivez-vous comme si c'était la première fois."
+    },
+    {
+        "sg": "Ka töngana mo sûnga nzönî kûê awe, gue torôrô na lê tî motarâka sô na gale sô, mo soro YSB sängö mo ngôko nî",
+        "fr": "Si vous êtes correctement inscrit, allez directement sur le menu ci-contre à gauche, et cliquez sur 'En français' puis, dans le sous-menu qui se présente, cliquez sur 'YSB sängö."
+    },
+    {
+        "sg": "Âlafabëe tî âyângâködörö tî Afrîka 200 ayeke na yâ tî gomünä na ndö tî finî lêndo sô: http://sumale.vjf.cnrs.fr",
+        "fr": "Les alphabets de 200 langues africaines sont réunis dans une base de données sur le site suivant: http://sumale.vjf.cnrs.fr"
+    },
+    {
+        "sg": "Tî dîko âtïsä na ndö tî âmbênî âyângâködörö tî Afrîka, ngôko ge.",
+        "fr": "Pour lire des informations sur des langues africaines, cliquez ici."
+    },
+    {
+        "sg": "Tî dîko âpäsëmä tî ndögîgî sô abâa âyângâködörö tî Afrîka, ngôko ge.",
+        "fr": "Pour s'informer sur les événements du monde concernant les langues africaines, cliquez ici."
+    }
+]

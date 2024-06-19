@@ -1,0 +1,161 @@
+[
+    {"sg": "kotará", "fr": "le grand-père", "en": "grandfather"},
+    {"sg": "tará", "fr": "la grand-mère", "en": "grandmother"},
+    {"sg": "ákotara", "fr": "les grands-parents", "en": "grandparents"},
+    {"sg": "songo", "fr": "le parent", "en": null},
+    {"sg": "babá", "fr": "le père, papa", "en": "father, dad"},
+    {"sg": "mamá", "fr": "la mère, maman", "en": "mother, mom"},
+    {"sg": "wafango-seléka", "fr": "l'époux, le mari", "en": "husband"},
+    {"sg": "wafango-seléka", "fr": "l'épouse", "en": "wife, spouse"},
+    {"sg": "gbá tí zo", "fr": "les gens", "en": "people"},
+    {"sg": "zo", "fr": "l'être humain", "en": "human being"},
+    {"sg": "kɔli", "fr": "l'homme", "en": "man"},
+    {"sg": "maseka-kɔli", "fr": "le jeune homme", "en": "young man"},
+    {"sg": "wále", "fr": "la femme", "en": "woman"},
+    {"sg": "maseka-wále", "fr": "la jeune femme", "en": "young woman"},
+    {"sg": "kóya", "fr": "l'oncle", "en": "uncle"},
+    {"sg": "womba", "fr": "la tante", "en": "aunt"},
+    {"sg": "womba", "fr": "la \"tatie\"", "en": "auntie"},
+    {"sg": "kóya", "fr": "le neveu, la nièce", "en": "nephew, niece"},
+    {"sg": "íta", "fr": "le cousin [m]", "en": null},
+    {"sg": "íta", "fr": "la cousine [f]", "en": null},
+    {"sg": "íta-kɔli", "fr": "le frère", "en": "brother"},
+    {"sg": "íta-wále", "fr": "la sœur", "en": "sister"},
+    {"sg": "yayá", "fr": "... aîné", "en": "elder ..."},
+    {"sg": "ngambe", "fr": "... cadet", "en": null},
+    {"sg": "tanga", "fr": "... benjamin", "en": "younger ..."},
+    {"sg": "mólengé, mɛrɛngɛ", "fr": "l'enfant", "en": "child"},
+    {"sg": "mólengé-kɔli", "fr": "le garçon, le fils", "en": "boy, son"},
+    {"sg": "kété mólengé-kɔli", "fr": "le garçonnet", "en": "little boy"},
+    {"sg": "mólengé-wále", "fr": "la fille", "en": "girl, daughter"},
+    {"sg": "kété mólengé-wále", "fr": "la fillette", "en": "little girl"},
+    {"sg": "ngbo", "fr": "le jumeau [m]", "en": "twin"},
+    {"sg": "ngbo", "fr": "la jumelle [f]", "en": "twin"},
+    {"sg": "bambí", "fr": "le bébé", "en": "baby"},
+    {"sg": "ndeko", "fr": "le fiancé", "en": "boyfriend"},
+    {"sg": "ndeko", "fr": "la fiancée", "en": "girlfriend"},
+    {"sg": "maté", "fr": "l'ami [m], l'amie [f]", "en": "friend"},
+    {"sg": "kua", "fr": "le copain [m], la copine [f]", "en": null},
+    {"sg": "fómbá", "fr": "le camarade", "en": "comrade"},
+    {"sg": "áwateréda", "fr": "le voisin [m], la voisine [f]", "en": "neighbor"},
+    {
+        "sg": "Zo",
+        "fr": "personne",
+        "en": "person"
+    },
+    {
+        "sg": "Kôlï",
+        "fr": "homme",
+        "en": "man"
+    },
+    {
+        "sg": "Wâlï",
+        "fr": "femme",
+        "en": "woman"
+    },
+    {
+        "sg": "Kumbämbä",
+        "fr": "célibataire",
+        "en": "single"
+    },
+    {
+        "sg": "Babâ",
+        "fr": "père/papa",
+        "en": "father/dad"
+    },
+    {
+        "sg": "Mamâ",
+        "fr": "mère/maman/femme de l'oncle paternel",
+        "en": "mother/mom/wife of paternal uncle"
+    },
+    {
+        "sg": "Babâ kötä/kêtê",
+        "fr": "frère aîné/cadet du père",
+        "en": "older/younger brother of the father"
+    },
+    {
+        "sg": "Mamâ kötä/kêtê",
+        "fr": "soeur aînée/cadette de la mère",
+        "en": "older/younger sister of the mother"
+    },
+    {
+        "sg": "Ömba",
+        "fr": "tante paternelle",
+        "en": "paternal aunt"
+    },
+    {
+        "sg": "Ahû/Kôya",
+        "fr": "Oncle maternel/neveu/nièce",
+        "en": "maternal uncle/nephew/niece"
+    },
+    {
+        "sg": "Mbäkôro",
+        "fr": "vieux/vieille",
+        "en": "old"
+    },
+    {
+        "sg": "Âta/Tarä",
+        "fr": "grand-père/grand-mère/petit-fils/petite-fille",
+        "en": "grandfather/grandmother/grandson/granddaughter"
+    },
+    {
+        "sg": "Kötarä",
+        "fr": "ancêtre",
+        "en": "ancestor"
+    },
+    {
+        "sg": "Mêlengê/Môlengê",
+        "fr": "enfant",
+        "en": "child"
+    },
+    {
+        "sg": "Mêlengê kôlï",
+        "fr": "garçon",
+        "en": "boy"
+    },
+    {
+        "sg": "Mêlengê wâlï",
+        "fr": "fille",
+        "en": "girl"
+    },
+    {
+        "sg": "Masika",
+        "fr": "jeune",
+        "en": "young"
+    },
+    {
+        "sg": "Masika kôlï",
+        "fr": "jeune homme",
+        "en": "young man"
+    },
+    {
+        "sg": "Masika wâlï",
+        "fr": "jeune fille",
+        "en": "young woman"
+    },
+    {
+        "sg": "Pendere",
+        "fr": "beau/belle, jolie",
+        "en": "handsome/beautiful, pretty"
+    },
+    {
+        "sg": "Îtä",
+        "fr": "frère/soeur/cousin/cousine",
+        "en": "brother/sister/cousin (m/f)"
+    },
+    {
+        "sg": "Îtä tî kôlï/wâlï",
+        "fr": "frère/soeur",
+        "en": "brother/sister"
+    },
+    {
+        "sg": "Yayâ",
+        "fr": "frère ou soeur aîné(e)",
+        "en": "older brother or sister"
+    },
+    {
+        "sg": "Ngambe",
+        "fr": "frère ou soeur cadet(te)",
+        "en": "younger brother or sister"
+    } 
+]

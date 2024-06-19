@@ -1,0 +1,287 @@
+[
+    {
+        "sg": "sewa",
+        "fr": "la famille",
+        "en": "family"
+    },
+    {
+        "sg": "da",
+        "fr": "la maison",
+        "en": "house"
+    },
+    {
+        "sg": "gbata",
+        "fr": "la ville",
+        "en": "town, city"
+    },
+    {
+        "sg": "yongo",
+        "fr": "le transport",
+        "en": "transport"
+    },
+    {
+        "sg": "datokua",
+        "fr": "le bureau de Poste",
+        "en": "Post office"
+    },
+    {
+        "sg": "séndásése",
+        "fr": "la géographie",
+        "en": "geography"
+    },
+    {
+        "sg": "ndo",
+        "fr": "le lieu",
+        "en": "location"
+    },
+    {
+        "sg": "mbango",
+        "fr": "la direction",
+        "en": "direction"
+    },
+    {
+        "sg": "séndo",
+        "fr": "le climat, la météo",
+        "en": "weather"
+    },
+    {
+        "sg": "gígí",
+        "fr": "la nature",
+        "en": "nature"
+    },
+    {
+        "sg": "gbagbasa",
+        "fr": "le zoo",
+        "en": "zoo"
+    },
+    {
+        "sg": "ndeke",
+        "fr": "l'oiseau",
+        "en": "bird"
+    },
+    {
+        "sg": "yati",
+        "fr": "l'insecte",
+        "en": "insect"
+    },
+    {
+        "sg": "susu",
+        "fr": "le poisson",
+        "en": "fish"
+    },
+    {
+        "sg": "kóbe",
+        "fr": "la nourriture",
+        "en": "food"
+    },
+    {
+        "sg": "samba",
+        "fr": "la boisson",
+        "en": "drink"
+    },
+    {
+        "sg": "desere",
+        "fr": "le dessert",
+        "en": "dessert"
+    },
+    {
+        "sg": "lékeke",
+        "fr": "le fruit",
+        "en": "fruit"
+    },
+    {
+        "sg": "kugbekása",
+        "fr": "les légumes",
+        "en": "vegetables"
+    },
+    {
+        "sg": "tɛrɛ",
+        "fr": "le corps",
+        "en": "body"
+    },
+    {
+        "sg": "séndánganga",
+        "fr": "la médecine",
+        "en": "medicine"
+    },
+    {
+        "sg": "bongo, (yungo-bongo)",
+        "fr": "les vêtements",
+        "en": "clothes"
+    },
+    {
+        "sg": "bongo",
+        "fr": "le tissu",
+        "en": "fabrics"
+    },
+    {
+        "sg": "nguru",
+        "fr": "le sport",
+        "en": "sport"
+    },
+    {
+        "sg": "yé tí ngíá",
+        "fr": "le jouet",
+        "en": "toy"
+    },
+    {
+        "sg": "ngíá",
+        "fr": "le jeu",
+        "en": "game"
+    },
+    {
+        "sg": "wungo",
+        "fr": "les chiffres, les nombres",
+        "en": "numbers"
+    },
+    {
+        "sg": "fango-yá",
+        "fr": "la fraction",
+        "en": "fraction"
+    },
+    {
+        "sg": "(á)nzoróko",
+        "fr": "couleur(s)",
+        "en": "color(s)"
+    },
+    {
+        "sg": "tángo, ngoi, ndembe",
+        "fr": "le temps",
+        "en": "time"
+    },
+    {
+        "sg": "zíngo na lango",
+        "fr": "le réveil",
+        "en": "alarm clock"
+    },
+    {
+        "sg": "á lango 7 tí yenga",
+        "fr": "les 7 jours de la semaine",
+        "en": "7 days of the week"
+    },
+    {
+        "sg": "nzɛ",
+        "fr": "le mois",
+        "en": "month"
+    },
+    {
+        "sg": "a",
+        "fr": "nous, on",
+        "en": "we"
+    },
+    {
+        "sg": "húnda",
+        "fr": "la question",
+        "en": "question"
+    },
+    {
+        "sg": "Mä nzönî !",
+        "fr": "Ecoute bien !",
+        "en": "Listen well!"
+    },
+    {
+        "sg": "Tene nî !",
+        "fr": "Répète !",
+        "en": "Repeat!"
+    },
+    {
+        "sg": "Dîko...",
+        "fr": "Lis...",
+        "en": "Read..."
+    },
+    {
+        "sg": "Sü...",
+        "fr": "Ecris...",
+        "en": "Write..."
+    },
+    {
+        "sg": "Mbupa",
+        "fr": "mot",
+        "en": "word"
+    },
+    {
+        "sg": "Finî",
+        "fr": "nouveau",
+        "en": "new"
+    },
+    {
+        "sg": "Täpandë",
+        "fr": "exemple",
+        "en": "example"
+    },
+    {
+        "sg": "Sëgô",
+        "fr": "ton",
+        "en": "tone"
+    },
+    {
+        "sg": "Sëgô tî gbenî",
+        "fr": "ton bas",
+        "en": "low tone"
+    },
+    {
+        "sg": "Fö sëgô",
+        "fr": "ton moyen",
+        "en": "middle tone"
+    },
+    {
+        "sg": "Kêtê sëgô",
+        "fr": "ton haut",
+        "en": "high tone"
+    },
+    {
+        "sg": "papa",
+        "fr": "cuiller, fourchette ou querelle",
+        "en": "spoon, fork or quarrel"
+    },
+    {
+        "sg": "kutukutu",
+        "fr": "voiture",
+        "en": "car"
+    },
+    {
+        "sg": "këkë",
+        "fr": "arbre",
+        "en": "tree"
+    },
+    {
+        "sg": "wätäkä",
+        "fr": "mensonge",
+        "en": "lie"
+    },
+    {
+        "sg": "lütï",
+        "fr": "se tenir debout",
+        "en": "to stand"
+    },
+    {
+        "sg": "löndö",
+        "fr": "Debout !, Lève-toi !",
+        "en": "Stand up!"
+    },
+    {
+        "sg": "sîrîrî",
+        "fr": "paix",
+        "en": "peace"
+    },
+    {
+        "sg": "kêtê",
+        "fr": "petit",
+        "en": "small"
+    },
+    {
+        "sg": "sêngê",
+        "fr": "rien",
+        "en": "nothing"
+    },
+    {
+        "sg": "bâsâmbâlâ",
+        "fr": "sept",
+        "en": "seven"
+    },
+    {
+        "sg": "Lo yeke na nzönî bûku",
+        "fr": "il a un bon bouquin",
+        "en": "he has a good book"
+    }
+]

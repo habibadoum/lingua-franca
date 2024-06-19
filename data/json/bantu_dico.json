@@ -1,0 +1,218 @@
+[
+    {
+        "sg": "Balaô",
+        "fr": "Bonjour"
+    },
+    {
+        "sg": "Balaô",
+        "fr": "Salut !"
+    },
+    {
+        "sg": "Gué nzôni",
+        "fr": "Au revoir"
+    },
+    {
+        "sg": "Töngana nye ?",
+        "fr": "Comment ça va ?"
+    },
+    {
+        "sg": "Mbï yeke sêngê",
+        "fr": "Je vais bien"
+    },
+    {
+        "sg": "Ïrï tî mo nye ?",
+        "fr": "Quel est ton nom ?"
+    },
+    {
+        "sg": "Ïrï tî mbï ...",
+        "fr": "Mon nom est ..."
+    },
+    {
+        "sg": "ïrï tî nzapä",
+        "fr": "Le prénom"
+    },
+    {
+        "sg": "ïrï tî ködörö",
+        "fr": "Le nom de famille"
+    },
+    {
+        "sg": "maseka-wâlï",
+        "fr": "Mademoiselle"
+    },
+    {
+        "sg": "Yäpakara",
+        "fr": "madame"
+    },
+    {
+        "sg": "Pakara",
+        "fr": "Monsieur"
+    },
+    {
+        "sg": "Balaô",
+        "fr": "Bonjour"
+    },
+    {
+        "sg": "Balaô",
+        "fr": "Bonsoir"
+    },
+    {
+        "sg": "Nzoni lakwi",
+        "fr": "Bonne nuit"
+    },
+    {
+        "sg": "Nzoni matanga",
+        "fr": "Bonne fêtes"
+    },
+    {
+        "sg": "Nzoni matanga ti dungö",
+        "fr": "Joyeux anniversaire"
+    },
+    {
+        "sg": "Singîla (mingi)",
+        "fr": "Merci (beaucoup)"
+    },
+    {
+        "sg": "Ngû-nzapä yeke löndö!",
+        "fr": "La pluie menace!"
+    },
+    {
+        "sg": "Mo yê, wala mo yê äpëe ?",
+        "fr": "Tu veux, ou tu ne veux pas ?"
+    },
+    {
+        "sg": "Nye laâ ? / Sô nye laâ ?",
+        "fr": "Qu'est-ce que c'est ?"
+    },
+    {
+        "sg": "(Ala) Gä hîo, sï",
+        "fr": "Venez vite !"
+    },
+    {
+        "sg": "Nye lâ sï ala vö nye ?",
+        "fr": "Qu'avez-vous acheté ?"
+    },
+    {
+        "sg": "Lâwa sï lo gä ?",
+        "fr": "Quand est-il arrivé ?"
+    },
+    {
+        "sg": "Na ndo wa ?",
+        "fr": "À quel endroit ?"
+    },
+    {
+        "sg": "Zo wa lâ ?",
+        "fr": "Qui est-ce ?"
+    },
+    {
+        "sg": "Zo wa lâ sï agä sô ?",
+        "fr": "Qui c'est qui est venu ?"
+    },
+    {
+        "sg": "Lo gä pëpë (sô) ngbanga tî nye ?",
+        "fr": "Pourquoi n'est-il pas venu ?"
+    },
+    {
+        "sg": "Mo/âla hön kâ !",
+        "fr": "Va-t-en! Allez-vous-en!"
+    },
+    {
+        "sg": "Mbï yê mozoko mîngi",
+        "fr": "J'aime beaucoup la musique"
+    },
+    {
+        "sg": "Ë hön !",
+        "fr": "Allons-nous-en!"
+    },
+    {
+        "sg": "Marâ tî mô nye ?",
+        "fr": "Quelle est ton ethnie ?"
+    },
+    {
+        "sg": "Mo yeke zo tî ködörö wa ?",
+        "fr": "Tu es ressortissant de quel pays ?"
+    },
+    {
+        "sg": "Iri ti Ködörö tî mo a yéké nye ?",
+        "fr": "Quel est le nom de ton pays ?"
+    },
+    {
+        "sg": "kamba ti bê ti mbi",
+        "fr": "Mon amour"
+    },
+    {
+        "sg": "Mbi yé mö",
+        "fr": "Je t'aime"
+    },
+    {
+        "sg": "Mbi yé mö mingi",
+        "fr": "Je t'aime très fort"
+    },
+    {
+        "sg": "Koli ti mbi la",
+        "fr": "C'est mon mari, mon copain"
+    },
+    {
+        "sg": "Wali ti mbi la",
+        "fr": "C'est ma femme, ma copine"
+    },
+    {
+        "sg": "Nzara ti mö a sara mbi",
+        "fr": "J'ai envie de toi"
+    },
+    {
+        "sg": "Mö yéké pendèrè (mingi) na lè ti mbi",
+        "fr": "Je te trouve (très) beau/belle"
+    },
+    {
+        "sg": "Mö yéké pendèrè mingi",
+        "fr": "tu es très beau (belle, jolie)"
+    },
+    {
+        "sg": "Mö hondè na mbi nyè ?",
+        "fr": "Qu'est ce que tu me caches ?"
+    },
+    {
+        "sg": "Ti mbi na mô a hûnzi awè",
+        "fr": "C'est fini entre toi et moi"
+    },
+    {
+        "sg": "kobè a nzèrè na yanga ti ala",
+        "fr": "Bon-appetit"
+    },
+    {
+        "sg": "kôbe tî ndäpêlêlê",
+        "fr": "le petit-déjeuner"
+    },
+    {
+        "sg": "kôbe tî bêkombïte",
+        "fr": "le déjeuner"
+    },
+    {
+        "sg": "kôbe tî lâkûi",
+        "fr": "le dîner, souper"
+    },
+    {
+        "sg": "nzara, zo tî nzara",
+        "fr": "la faim, affamé"
+    },
+    {
+        "sg": "Tere ti mbi a sô",
+        "fr": "Je suis malade"
+    },
+    {
+        "sg": "A sö mbi na mbagé ndo so",
+        "fr": "J'ai mal ici"
+    },
+    {
+        "sg": "Da nganga a yéké na ndo wa ?",
+        "fr": "Où est l'hôpital ?"
+    },
+    {
+        "sg": "Iri wa nganga",
+        "fr": "Appelles un médecin"
+    },
+    {
+        "sg": "Tèrè ti mbi a sara nzoni a pè",
+        "fr": "Je ne me sens pas très bien"
+    }
+]
