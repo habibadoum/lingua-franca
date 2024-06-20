@@ -37,10 +37,10 @@ def remove_en_keys(file_path):
 if __name__ == '__main__':
     directory = 'data/json/centrafrique.sango.free.fr'
     
-    file_path = 'data/json/sango.free.fr/pair_translations.json'
+    file_path = 'data/json/japprendslesango.json'
     num_items = count_items_in_json(file_path)
     print(f'Number of items in {file_path}: {num_items}')
 
-    file_path = 'data/json/lexilogos.com/lexilogos_translations.json'
-    num_items = count_items_in_json(file_path)
-    print(f'Number of items in {file_path}: {num_items}')
+    # file_path = 'data/json/lexilogos.com/lexilogos_translations.json'
+    # num_items = count_items_in_json(file_path)
+    # print(f'Number of items in {file_path}: {num_items}')
