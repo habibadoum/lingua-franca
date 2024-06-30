@@ -74,7 +74,7 @@ The resources used to create the dataset are believed to be open-source and free
 - The FLORES-200 benchmark team for providing evaluation data
 
 ## License
-This project is open-source and available under [INSERT LICENSE]. The training data is believed to be from open-access sources. If you identify any licensing issues, please contact the maintainer immediately.
+This project is open-source and available under [Apache 2.0](LICENSE). The training data is believed to be from open-access sources. If you identify any licensing issues, please contact the maintainer immediately.
 
 ## Contact
 For any questions or concerns regarding this project, please feel free to reach out to me at [habib.adoum01@gmail.com](mailto:habib.adoum01@gmail.com)
