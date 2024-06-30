@@ -1,5 +1,22 @@
 # Virtualenv
 .*env
 
-data/nllb
+.DS_Store
+
 data/flores
+
+I want to create a README for a project I've done as part of a Hackathon organised by Mistral AI. 
+Here is the description of the hackathon:
+
+
+I chose to do the fine-tuning on my native language which is Sango. Sango or Sängö is the lingua franca of the Central African Republic. It is a language with few online resources, mainly because French is widely used for writing in the Central African Republic. 
+
+
+So I'd like you to write me a README for the project, with a number of elements to take into account:
+- I've manually built up a dataset of 38,000 pairs of French-Sango translations from the French-Sango dictionary, translations I've done myself and some sentences taken from learning websites.
+- It is difficult to find enough online resources to build the dataset. This part of the project was very time-consuming. 
+- The model was trained on all these 38,000 peers over 200 steps and tested on 100 example peers taken from the FLORES-200 benchmark.
+- Here are the results obtained: 
+
+A brief explanation of the results should be given. There were some good translation results, but the model struggled with language sentences and the corpus clearly lacked a wide variety of sentences to help the model learn the different nuances of the language. 
+We should also mention the next steps: 
