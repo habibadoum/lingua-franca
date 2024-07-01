@@ -1,5 +1,7 @@
 # Mistral AI Hackathon Project - LLM Fine-tuning for Sango Translation
 
+![](presentation/MistralAI_hackathon_presentation.mp4)
+
 ## Table of Contents
 1. [Project Description](#project-description)
 2. [Dataset](#dataset)
