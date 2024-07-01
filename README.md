@@ -1,7 +1,5 @@
 # Mistral AI Hackathon Project - LLM Fine-tuning for Sango Translation
 
-https://github.com/habibadoum/lingua-franca/assets/103595480/95bd4f6a-ec8f-4564-b343-cccf6f40f5d8
-
 ## Table of Contents
 1. [Project Description](#project-description)
 2. [Dataset](#dataset)
